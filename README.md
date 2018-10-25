@@ -2,4 +2,6 @@
 
 Test
 
-[Automaton](https://github.com/BurhanH/burhanh.github.io/blob/master/automaton.md "Automaton") test <br>
+[Automaton](automaton.md "Automaton") test <br>
+
+<a href="automaton.md">Automaton 2</a>
