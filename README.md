@@ -1,7 +1,3 @@
-# TEST 
+# burhanh.github.io 
 
-Test
-
-[Automaton](automaton "Automaton") test
-
-<a href="automaton">Automaton 2</a>
+This is my personal blog. 10/15/18.
