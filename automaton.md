@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Automation
+title: Project Automation
 permalink: /automation/
 ---
 
