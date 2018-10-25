@@ -1,3 +1,9 @@
+---
+layout: page
+title: Automation
+permalink: /automation/
+---
+
 # Automaton project (testing)
 
 [![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/BurhanH/automaton/blob/master/LICENSE)
