@@ -7,7 +7,7 @@ permalink: /automaton/
 This project was developed to show how possible to automate similar scenarios on different programming languages and a variety of testing frameworks.
 I tried to cover popular testing approaches such as UI testing with popular Selenium and API testing.
 
-![alt text](https://github.com/BurhanH/burhanh.github.io/raw/master/automaton.png "Automaton") <br>
+![alt text](/assets/automaton.png "Automaton") <br>
 
 List of repositories: <br>
 
