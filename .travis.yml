@@ -18,4 +18,4 @@ before_script: 'bundle install'
 
 install: 'gem install jekyll html-proofer'
 
-script: 'jekyll build && htmlproofer ./_site'
+script: 'bundle exec jekyll build && htmlproofer ./_site'
