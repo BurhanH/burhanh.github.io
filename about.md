@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Put something here
+Hello! My name is Baur Urazalinov. Here is my personal blog where I posting my articles and projects.
