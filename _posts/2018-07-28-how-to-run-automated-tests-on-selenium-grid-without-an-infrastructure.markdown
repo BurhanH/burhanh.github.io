@@ -2,10 +2,10 @@
 layout: post
 title:  "How to run automated tests on Selenium Grid without an infrastructure"
 date:   2018-07-28 00:00:00 -0500
-categories: automation selenium grid docker zalenium
+categories: [automation, selenium, grid, docker, zalenium]
 ---
 ![alt text](/assets/1985_guest_from_the_future.png "Characters from 'Guest from the Future' movie 1985 (Gostya iz budushchego)") <br>
-<center> Characters from 'Guest from the Future' movie 1985 (Gostya iz budushchego) </center>
+<center>Characters from 'Guest from the Future' movie 1985 (Gostya iz budushchego)</center>
 
 You need to run your automated test suites but you don't have an infrastructure yet. No worries! I know how to help you.
 
