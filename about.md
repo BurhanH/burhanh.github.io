@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img src="/assets/baur.png" height="auto" width="200" style="border-radius:50%">
+<img src="/assets/baur.png" style="border-radius:50%">
 
 Hello! <br>
 My name is Baur Urazalinov. There is my personal blog where I posting articles and projects. <br>
