@@ -10,8 +10,8 @@ Recently I finished "Python: Data analysis" course on LinkedIn Learning.
 I started thinking of how to apply this knowledge to my practical experience. 
 
 And then - Bingo!
-At the same time, I was watching a wonderful serial "Game Of Thrones" and the idea was clear 
-- what if I take data from SSA.gov with baby names and will try to compare (do some analysis) the show popularity and baby names.
+At the same time, I was watching a wonderful serial "Game Of Thrones" and the idea was clear, 
+what if I take data from SSA.gov with baby names and will try to compare (do some analysis) the show popularity and baby names.
 
 Finally, I spent a few hours at night and got the result [baby-names-analysis](https://github.com/BurhanH/data-analysis/blob/master/baby-names-analysis/Baby%20names%20analysis.ipynb).
 
