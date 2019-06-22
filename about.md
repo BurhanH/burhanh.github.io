@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
+
 <img style="width:200px;border-radius:50%" src="/assets/baur.png" alt="Baur Urazalinov">
 
 Hello! <br>
