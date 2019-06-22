@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-img[src*="attributes"] {
+img[src*="#attributes"] {
   width:200px;
   border-radius:50%;
 }
