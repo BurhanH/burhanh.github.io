@@ -3,6 +3,11 @@ layout: page
 title: About
 permalink: /about/
 ---
+<style>
+img {
+  border-radius: 50%;
+}
+</style>
 
 <img src="/assets/baur.png" alt="Baur Urazalinov" style="width:200px">
 
