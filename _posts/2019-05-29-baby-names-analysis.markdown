@@ -15,6 +15,6 @@ what if I'll take data from SSA.gov with baby names and try to compare (do some 
 
 Finally, I spent a few hours at night and got the result [baby-names-analysis](https://github.com/BurhanH/data-analysis/blob/master/baby-names-analysis/Baby%20names%20analysis.ipynb). (Spoiler: Arya is winner!)
 
-*Note!* It was an experiment, I know it's silly but the main goal was to apply knowledge to a real example.
+Note! It was an experiment, I know it's silly but the main goal was to apply knowledge to a real example.
 
 Next few months I will try to create more scientific and "adult" research to improve and prove my knowledge in Data Science field.
