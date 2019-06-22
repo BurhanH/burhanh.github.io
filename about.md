@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![alt text](/assets/baur.png "Baur Urazalinov") <br>
+![alt text](/assets/baur.png "Baur Urazalinov"){height="auto" width="200" style="border-radius:50%"}<br>
 
 Hello! <br>
 My name is Baur Urazalinov. There is my personal blog where I posting articles and projects. <br>
