@@ -4,7 +4,7 @@ title:  "Baby names analysis"
 date:   2019-05-29 00:00:00 -0500
 categories: statistic data analysis GOT
 ---
-![alt text](/assets/need_picture.png "Put picture here") <br>
+![alt text](/assets/got_baby.png "Baby from Game Of Thrones (All rights belongs to HBO)") <br>
 
 Recently I finished "Python: Data analysis" course on LinkedIn Learning.
 I started thinking of how to apply this knowledge to my practical experience. And then - Bingo! 
