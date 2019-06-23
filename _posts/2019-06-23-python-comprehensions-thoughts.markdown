@@ -23,7 +23,7 @@ Let's write a simple function which creates an output list with only even number
 
 ![no-comprehension](/assets/python-no-comprehension.png "No comprehension")  
 
-Second function will do the same but we will use comprehensions:  
+Second function will do the same but we will use the comprehensions:  
 
 ![comprehension](/assets/python-comprehension.png "With comprehension")  
 
