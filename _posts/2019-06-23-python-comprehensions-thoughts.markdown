@@ -21,13 +21,13 @@ Disclaimer! If you love complexity or adept of python comprehensions, stop readi
 
 Lets write a simple function which creates an output list with only even numbers:
 
-![some page](/assets/something.png "Something") <br>
+![no-comprehension](/assets/python-no-comprehension.png "No comprehension") <br>
 
 Second function will do the same but we will use comprehensions:
 
-![some page](/assets/something.png "Something") <br>
+![comprehension](/assets/python-comprehension.png "With comprehension") <br>
 
-Let's mejer bite code for each functions:
+Let's mejer a bitecode for each functions:
 
 ![some page](/assets/something.png "Something") <br>
 
