@@ -29,7 +29,9 @@ Second function will do the same but we will use comprehensions:
 
 Let's mejer a bitecode for each functions:
 
-![some page](/assets/something.png "Something") <br>
+![dis-no-comprehension](/assets/dis-no-comprehension.png "Dis no comprehension") <br>
+
+![dis-comprehension](/assets/dis-comprehension.png "Dis comprehension") <br>
 
 What we get. In the second function, we saved 3 lines of code, but in bytecode, we get the same 76 lines of bytecode.
 
