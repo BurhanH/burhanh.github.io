@@ -4,7 +4,7 @@ title:  "Python comprehensions, let's talk about them"
 date:   2019-06-23 00:00:00 -0500
 categories: python comprehensions thoughts 
 ---
-![some page](/assets/something.png "Something") <br>
+![yin-yang](/assets/yin-yang.png "The Yin and Yang of Python") <br>
 
 Hi there! I would like to share some thoughts.
 
