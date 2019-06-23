@@ -19,7 +19,7 @@ It should be a balance when and how to use them.
 
 Disclaimer! If you love complexity or adept of python comprehensions, stop reading, just skip next piece of information.
 
-Lets write a simple function which creates an output list with only even numbers:
+Let's write a simple function which creates an output list with only even numbers:
 
 ![no-comprehension](/assets/python-no-comprehension.png "No comprehension") <br>
 
@@ -27,19 +27,21 @@ Second function will do the same but we will use comprehensions:
 
 ![comprehension](/assets/python-comprehension.png "With comprehension") <br>
 
-Let's mejer a bitecode for each functions:
+Let's compare a bytecode for each function:
 
 ![dis-no-comprehension](/assets/dis-no-comprehension.png "Dis no comprehension") <br>
 
 ![dis-comprehension](/assets/dis-comprehension.png "Dis comprehension") <br>
 
-What we get. In the second function, we saved 3 lines of code, but in bytecode, we get the same 76 lines of bytecode.
+What we got. In the second function, we saved 3 lines of code, but in bytecode, we get the same 76 lines of bytecode.
 
 How about run time?
 
-![some page](/assets/something.png "Something") <br>
+![prun-no-comprehension](/assets/prun-no-comprehension.png "prun no comprehension") <br>
 
-Hm! Looks like the first function has 6 extra calls during an execution. It's definitely will save runtime for a huge amount of data calculation.
+![prun-comprehension](/assets/prun-comprehension.png "prun comprehension") <br>
+
+Hm! Looks like the first function has 4 extra calls during an execution. It's definitely will save runtime for a huge amount of data calculation.
 
 ![some page](/assets/something.png "Something") <br>
 
