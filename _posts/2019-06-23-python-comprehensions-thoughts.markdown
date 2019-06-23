@@ -46,4 +46,4 @@ It's definitely will save runtime for a huge amount of data calculation.
 
 My message is - in code, you can use simple code or use the comprehensions but it shouldn't be against readability, maintainability, and definitely performance (!).  
 
-P/S: I should have compared different types of Python comprehensions and measured runtime for each type but it's in another article ;)  
+**P/S:** I should have compared different types of Python comprehensions and measured runtime for each type but it's in another article ;)  
