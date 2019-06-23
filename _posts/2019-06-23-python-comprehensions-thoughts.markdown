@@ -4,9 +4,9 @@ title:  "Python comprehensions, let's talk about them"
 date:   2019-06-23 00:00:00 -0500
 categories: python comprehensions thoughts 
 ---
-![yin-yang](/assets/yin-yang.png "The Yin and Yang of Python") <br>
+![yin-yang](/assets/comprehensions-question.png "Do you use comprehensions and how frequently?") <br>
 
-Hi there! I would like to share some thoughts.
+Hi there! I would like to share some thoughts...
 
 Recently I got a call from a recruiter and was asked me about my work experience and so on. 
 And one question was do you use comprehensions and how frequently?
