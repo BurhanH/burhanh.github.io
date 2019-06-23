@@ -14,7 +14,7 @@ And one question was do you use comprehensions and how frequently?
 
 Hm... Yeah!  
 I know about them and sometimes I use them but!   
-There is one rule [PEP20](https://www.python.org/dev/peps/pep-0020/ "The Zen of Python") - The Zen of Python, sentence 3 says: "Simple is better than complex" (sometimes I saying it when I see a regular expression).    
+There is one rule [PEP20](https://www.python.org/dev/peps/pep-0020/ "The Zen of Python") - The Zen of Python, sentence 3 says: "Simple is better than complex" (sometimes I say it when I see [a regular expression](https://docs.python.org/3/library/re.html)).    
 It should be a balance when and how to use them.   
 
 **Disclaimer!** If you love complexity or adept of python comprehensions, stop reading, just skip next piece of information.  
