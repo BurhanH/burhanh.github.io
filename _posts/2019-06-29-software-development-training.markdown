@@ -4,12 +4,11 @@ title:  "Train your skills continuously"
 date:   2019-06-29 00:00:00 -0500
 categories: software development training 
 ---
-
-![binary-sentence](/assets/binary-sentence.png "Train your skills continuously")   
-
 Hello! <br>
 Today I would like to share interesting online resources which help you improve your programming skills, 
 to be more precise - coding skills.
+
+![binary-sentence](/assets/binary-sentence.png "Train your skills continuously")   
 
 One quite interesting is [https://app.codility.com/programmers/](https://app.codility.com/programmers/), an original resource is [https://codility.com/](https://codility.com/). <br>
 On this platform, you can learn a particular topic and then apply new knowledge to solve some problems (tasks).
