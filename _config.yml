@@ -28,6 +28,8 @@ github_username:  BurhanH
 ## excerpt
 excerpt_separator: <!--more-->
 
+permalink: /:categories/:year/:month/:day/:title:output_ext
+
 # Build settings
 markdown: kramdown
 theme: minima
