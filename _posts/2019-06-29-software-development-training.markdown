@@ -12,10 +12,14 @@ Today I would like to share interesting online resources which help you improve 
 to be more precise - coding skills.
 
 One quite interesting is [https://app.codility.com/programmers/](https://app.codility.com/programmers/), an original resource is [https://codility.com/](https://codility.com/). 
-On this platform, you can learn a particular topic and then apply new knowledge to solve some problems (tasks). The more important thing is after a solution submission you will get a report about the solution such as correctness, performance, etc... Plus this platform supports many programming languages (Java, Python, C, Go, etc.). You can also participate in challenges [https://app.codility.com/programmers/challenges/](https://app.codility.com/programmers/challenges/).
+On this platform, you can learn a particular topic and then apply new knowledge to solve some problems (tasks).
+
+The more important thing is after a solution submission you will get a report about the solution such as correctness, performance, etc... Plus this platform supports many programming languages (Java, Python, C, Go, etc.).
+You can also participate in challenges [https://app.codility.com/programmers/challenges/](https://app.codility.com/programmers/challenges/).
 Some of you may be interviewed through this platform. (I hope you will be ready after this article!)
 
-Another interesting resource is [https://projecteuler.net/](https://projecteuler.net/). On this resource you can solve, I would say, more math problems via programming.
+Another interesting resource is [https://projecteuler.net/](https://projecteuler.net/).
+On this resource you can solve, I would say, more math problems via programming.
 
 Few bits of advice: <br>
 1) Do not cheat! Try to solve a problem yourself, then try to improve it and after, check and compare your result with other solutions which were solved by other engineers.
