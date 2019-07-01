@@ -22,6 +22,7 @@ On this resource you can solve, I would say, more math problems via programming.
 
 Few bits of advice: <br>
 1) Do not cheat! Try to solve a problem yourself, then try to improve it and after, check and compare your result with other solutions which were solved by other engineers.
+
 2) Take one problem and try to solve it. I know! Sometimes it takes longer (in my case I spent almost a few days to get a proper solution for one problem).
 
 **Conclusion:** <br>
