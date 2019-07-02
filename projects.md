@@ -15,7 +15,12 @@ Web applications
 
 Data analisys
 -------------
-Under construction
+
+[baby name analyis](https://github.com/BurhanH/data-analysis/blob/master/baby-names-analysis/Baby%20names%20analysis.ipynb) <br>
+
+[breast cancer prediction](https://github.com/BurhanH/data-analysis/blob/master/scikit-learn/neural_net.ipynb) <br>
+
+[simpy example](https://github.com/BurhanH/data-analysis/blob/master/simpy/simpy_example.ipynb) <br>
 
 Automation
 ----------
