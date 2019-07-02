@@ -1,8 +1,19 @@
 ---
 layout: page
-title: Project Automaton
-permalink: /automaton/
+title: Projects
+permalink: /projects/
 ---
+
+Web projects
+------------
+Under construction
+
+Data analisys
+-------------
+Under construction
+
+Automation
+----------
 
 This project was developed to show how possible to automate similar scenarios on different programming languages and a variety of testing frameworks.
 I tried to cover popular testing approaches such as UI testing with popular Selenium and API testing.
