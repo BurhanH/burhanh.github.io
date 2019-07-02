@@ -4,9 +4,14 @@ title: Projects
 permalink: /projects/
 ---
 
-Web projects
-------------
-Under construction
+Web applications
+----------------
+
+[weather app](https://aua-raiy.herokuapp.com/ "Weather application") [source code](https://github.com/BurhanH/weather-app) <br>
+
+[newspaper app](https://areket.herokuapp.com/ "Newspaper application") [source code](https://github.com/BurhanH/areket) <br>
+
+[one page app](https://torsyk.herokuapp.com/ "One page application") [source code](https://github.com/BurhanH/torsyk) <br>
 
 Data analisys
 -------------
@@ -33,6 +38,3 @@ List of repositories: <br>
 9) [Automaton-v9](https://github.com/BurhanH/automaton-v9 "Automaton-v9 project") UI / Visual, Python, Selenium, Unittest <br>
 10) [Automaton-v10](https://github.com/BurhanH/automaton-v10 "Automaton-v10 project") Performance / Load, Scala, Gatling tool <br>
 11) [Automaton-v11](https://github.com/BurhanH/automaton-v11 "Automaton-v11 project") UI, Java, Selenium, TestNG <br>
-
-
-To be continued ...
