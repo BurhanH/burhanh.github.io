@@ -4,12 +4,12 @@ title: Projects
 permalink: /projects/
 ---
 
-Data analisys
--------------
-Under construction
-
 Web projects
 ------------
+Under construction
+
+Data analisys
+-------------
 Under construction
 
 Automation
