@@ -7,6 +7,7 @@ permalink: /projects/
 Web applications
 ----------------
 In this section, you can find web projects which I developed. <br>
+
 The [weather app](https://aua-raiy.herokuapp.com/ "Weather application") will show you the weather in a particular city on Earth. You can check code and details here - [source code](https://github.com/BurhanH/weather-app). <br>
 
 The [newspaper app](https://areket.herokuapp.com/ "Newspaper application"). This app was developed to understand how works Django web framework. [source code](https://github.com/BurhanH/areket) <br>
@@ -25,7 +26,6 @@ In Data analysis section you will find projects related to data analysis. <br>
 
 Automation
 ----------
-
 This project was developed to show how possible to automate similar scenarios on different programming languages and a variety of testing frameworks.
 I tried to cover popular testing approaches such as UI testing with popular Selenium and API testing.
 
