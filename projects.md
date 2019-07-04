@@ -8,6 +8,8 @@ Web applications
 ----------------
 In this section, you can find web projects which I developed. <br>
 
+![web applications](/assets/web_apps.png "Web applications") <br>
+
 The [weather app](https://aua-raiy.herokuapp.com/ "Weather application") will show you the weather in a particular city on Earth. You can check code and details here - [source code](https://github.com/BurhanH/weather-app). <br>
 
 The [newspaper app](https://areket.herokuapp.com/ "Newspaper application"). This app was developed to understand how works Django web framework. [source code](https://github.com/BurhanH/areket) <br>
