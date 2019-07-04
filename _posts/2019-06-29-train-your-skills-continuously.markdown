@@ -26,5 +26,5 @@ Few bits of advice: <br>
 2) Take one problem and try to solve it. I know! Sometimes it takes longer (in my case I spent almost a few days to get a proper solution for one problem).
 
 **Conclusion:** <br>
-By solving this kind of 'synthetic' problems you are getting the important thing - an experience, plus when you are back to your 'real' work with 'real' problems you will find it is kind of easy, for some solution you will begin to see a pattern and place for enhancement. <br>
+By solving this kind of 'synthetic' problems you are getting the important thing - an experience, plus when you are back to your 'real' work with 'real' problems you will find it is kind of easy, for some solution you will begin to recognize a pattern and place for enhancement. <br>
 Second, you will keep your tonus as a software engineer (easy to be ready) for a technical interview.
