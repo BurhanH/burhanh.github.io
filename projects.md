@@ -8,15 +8,19 @@ Web applications
 ----------------
 In this section, you can find web projects which I developed. <br>
 
+![web applications](/assets/web_apps.png "Web applications") <br>
+
 The [weather app](https://aua-raiy.herokuapp.com/ "Weather application") will show you the weather in a particular city on Earth. You can check code and details here - [source code](https://github.com/BurhanH/weather-app). <br>
 
 The [newspaper app](https://areket.herokuapp.com/ "Newspaper application"). This app was developed to understand how works Django web framework. [source code](https://github.com/BurhanH/areket) <br>
 
 [One page app](https://torsyk.herokuapp.com/ "One page application"). An example of how to develop a web application via Flask web framework. [source code](https://github.com/BurhanH/torsyk) <br>
 
-Data analisys
+Data analysis
 -------------
 In Data analysis section you will find projects related to data analysis. <br>
+
+![data analysis](/assets/data-analysis.png "Data Analysis") <br>
 
 [Baby name analyis](https://github.com/BurhanH/data-analysis/blob/master/baby-names-analysis/Baby%20names%20analysis.ipynb). More detail about why in the [article](https://burhanh.github.io/2019/05/29/baby-names-analysis.html). <br>
 
