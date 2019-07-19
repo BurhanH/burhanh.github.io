@@ -31,7 +31,7 @@ In Data analysis section you will find projects related to data analysis. <br>
 Automation
 ----------
 This project was developed to show how possible to automate similar scenarios on different programming languages and a variety of testing frameworks.
-I tried to cover popular testing approaches such as UI testing with popular Selenium and API testing.
+I have tried to cover popular testing approaches such as UI testing with popular Selenium and API testing.
 
 ![alt text](/assets/automaton.png "Automaton") <br>
 
