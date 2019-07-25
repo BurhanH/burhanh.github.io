@@ -10,7 +10,7 @@ In this section, you can find web projects which I developed. <br>
 
 ![web applications](/assets/web_apps.png "Web applications") <br>
 
-The [REST API app](https://django-api-test.herokuapp.com/api/apiapp/ "REST API application") is an example of how possible to add REST API in Django application. As usual you may find a [source code](https://github.com/BurhanH/api-app) here. <br>
+The [REST API app](https://django-api-test.herokuapp.com/api/apiapp/ "REST API application") is an example of how possible to add REST API in Django application. As usual you may find a source code [here](https://github.com/BurhanH/api-app). <br>
 
 The [weather app](https://aua-raiy.herokuapp.com/ "Weather application") will show you the weather in a particular city on Earth. You can check code and details here - [source code](https://github.com/BurhanH/weather-app). <br>
 
