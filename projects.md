@@ -10,7 +10,7 @@ In this section, you can find web projects which I developed. <br>
 
 ![web applications](/assets/web_apps.png "Web applications") <br>
 
-[Connect four the game](https://github.com/BurhanH/connect-four "Connect four") as a part of "Python and Django Full Stack Web Developer" bootcamp. [Source code here.](https://github.com/BurhanH/connect-four) <br>
+[Connect four the game](https://github.com/BurhanH/connect-four "Connect four"), as a part of "Python and Django Full Stack Web Developer" bootcamp. [Source code here.](https://github.com/BurhanH/connect-four) <br>
 
 The [REST API app](https://django-api-test.herokuapp.com/api/v1/apiapp/ "REST API application") is an example of how possible to add REST API in Django application. As usual you may find a source code [here](https://github.com/BurhanH/api-app). <br>
 
