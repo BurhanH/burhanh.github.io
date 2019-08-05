@@ -12,6 +12,8 @@ In this section, you can find web projects which I developed. <br>
 
 [Connect four the game](https://connect-four-prj.herokuapp.com/ "Connect four"), as a part of "Python and Django Full Stack Web Developer" Bootcamp. [Source code here.](https://github.com/BurhanH/connect-four) <br>
 
+Tic Tac Toe the game, as a part of "Python and Django Full Stack Web Developer" Bootcamp. [Source code.](https://github.com/BurhanH/tic-tac-toe) <br>
+
 The [REST API app](https://django-api-test.herokuapp.com/api/v1/apiapp/ "REST API application") is an example of how possible to add REST API in Django application. As usual you may find a source code [here](https://github.com/BurhanH/api-app). <br>
 
 The [weather app](https://aua-raiy.herokuapp.com/ "Weather application") will show you the weather in a particular city on Earth. You can check code and details here - [source code](https://github.com/BurhanH/weather-app). <br>
