@@ -10,6 +10,8 @@ In this section, you can find web projects which I developed. <br>
 
 ![web applications](/assets/web_apps.png "Web applications") <br>
 
+The [REST API app](https://api-flask-baur.herokuapp.com/ "REST API application") is a prototype of REST API on Flask application. The source code [here](https://github.com/BurhanH/api-app-3). <br>
+
 [Spring boot app](https://spring-boot-baur.herokuapp.com/ "Spring Boot App"), it's my first attempt to build a web application with Spring framework and Java. [Source code.](https://github.com/BurhanH/springframework-java-sample) <br>
 
 [Connect four the game](https://connect-four-prj.herokuapp.com/ "Connect four"), as a part of "Python and Django Full Stack Web Developer" Bootcamp. [Source code here.](https://github.com/BurhanH/connect-four) <br>
