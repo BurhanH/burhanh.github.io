@@ -20,7 +20,7 @@ The [REST API app](https://django-api-test.herokuapp.com/api/v1/apiapp/ "REST AP
 
 The [weather app](https://aua-raiy.herokuapp.com/ "Weather application") will show you the weather in a particular city on Earth. You can check code and details here - [source code](https://github.com/BurhanH/weather-app). <br>
 
-The [newspaper app](https://areket.herokuapp.com/ "Newspaper application"). This app was developed to understand how works Django web framework. [source code](https://github.com/BurhanH/areket) <br>
+The Newspaper application - the app was developed to understand how works Django web framework. [source code](https://github.com/BurhanH/areket) <br>
 
 One page app - an example of how to develop a web application via Flask web framework. [source code](https://github.com/BurhanH/torsyk) <br>
 
