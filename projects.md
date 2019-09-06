@@ -59,4 +59,4 @@ List of repositories: <br>
 10) [Automaton-v10](https://github.com/BurhanH/automaton-v10 "Automaton-v10 project") Performance / Load, Scala, Gatling tool <br>
 11) [Automaton-v11](https://github.com/BurhanH/automaton-v11 "Automaton-v11 project") UI, Java, Selenium, TestNG <br>
 12) [Automaton-v12](https://github.com/BurhanH/Automaton-v12 "Automaton-v12 project") UI, Java, Selenium, TestNG, PageFactory <br>
-13) [Automaton-v13](https://github.com/BurhanH/Automaton-v13 "Automaton-v13 project") UI, Java, Junit, Cucumber <br>
+13) [Automaton-v13](https://github.com/BurhanH/Automaton-v13 "Automaton-v13 project") Java, Junit, Cucumber <br>
