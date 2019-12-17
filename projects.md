@@ -32,7 +32,7 @@ In Data analysis section you will find projects related to data analysis. <br>
 
 ![data analysis](/assets/data-analysis.png "Data Analysis") <br>
 
-[Baby name analyis](https://github.com/BurhanH/data-analysis/blob/master/baby-names-analysis/Baby%20names%20analysis.ipynb). More detail about why in the [article](https://burhanh.github.io/2019/05/29/baby-names-analysis.html). <br>
+[Baby name analysis](https://github.com/BurhanH/data-analysis/blob/master/baby-names-analysis/Baby%20names%20analysis.ipynb). More detail about why in the [article](https://burhanh.github.io/2019/05/29/baby-names-analysis.html). <br>
 
 [breast cancer prediction](https://github.com/BurhanH/data-analysis/blob/master/scikit-learn/neural_net.ipynb) <br>
 
