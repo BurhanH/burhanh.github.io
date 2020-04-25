@@ -2,10 +2,10 @@ language: ruby
 rvm:
 - 2.5.1
 
-branches:
-  only:
-  - gh-pages     # test the gh-pages branch
-  - /pages-(.*)/ # test every branch which starts with "pages-"
+# branches:
+#   only:
+#   - gh-pages     # test the gh-pages branch
+#   - /pages-(.*)/ # test every branch which starts with "pages-"
 
 addons:
   apt:
