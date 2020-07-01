@@ -21,10 +21,13 @@ We may easily open a new notebook or a terminal, start to write code, and immidi
 
 Start Jupyter Lab:
 todo ->
+
 Execute simple code for Python:
 todo ->
+
 Execute simple code for JavaScript:
 todo ->
+
 Open terminal and run Java:
 todo ->
 
