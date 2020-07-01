@@ -37,8 +37,9 @@ Yes, I understand you need to spend some time installing and configure everythin
 Show how to share code:
 todo ->
 
-I hope this knowledge opens a new horizon for you. Feel free to reach me via email, LinkedIn, or Twitter.
-Thanks for reading and don't stop learning and trying new things!
+I hope this knowledge opens a new horizon for you. <br>
+Feel free to reach me via email, LinkedIn, or Twitter. <br>
+Thanks for reading and don't stop learning and trying new things! <br>
 
 Technology stack and documentation:
  - [Jupyter lab](https://jupyterlab.readthedocs.io/en/stable/)
