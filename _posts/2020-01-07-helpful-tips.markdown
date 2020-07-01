@@ -38,7 +38,7 @@ Show how to share code:
 todo ->
 
 I hope this knowledge opens a new horizon for you. <br>
-Feel free to reach me via email, LinkedIn, or Twitter. <br>
+Feel free to reach me via [email](mailto:baur.urazalinov@gmail.com), [LinkedIn](https://www.linkedin.com/in/burazalinov), or [Twitter](https://www.twitter.com/BaurDotPy). <br>
 Thanks for reading and don't stop learning and trying new things! <br>
 
 Technology stack and documentation:
