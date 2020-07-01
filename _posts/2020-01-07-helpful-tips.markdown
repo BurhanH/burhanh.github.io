@@ -38,10 +38,10 @@ I hope this knowledge opens a new horizon for you. Feel free to reach me via ema
 Thanks for reading and don't stop learning and trying new things!
 
 Technology stack and documentation:
-[Jupyter lab](https://jupyterlab.readthedocs.io/en/stable/)
-[Jupyter kernels](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels)
-[Python](https://www.python.org/)
-[Java](https://www.java.com/en/)
-[JavaScript](https://www.javascript.com/)
-[Julia](https://julialang.org/)
-[SQL](https://www.w3schools.com/sql/)
+ - [Jupyter lab](https://jupyterlab.readthedocs.io/en/stable/)
+ - [Jupyter kernels](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels)
+ - [Python](https://www.python.org/)
+ - [Java](https://www.java.com/en/)
+ - [JavaScript](https://www.javascript.com/)
+ - [Julia](https://julialang.org/)
+ - [SQL](https://www.w3schools.com/sql/)
