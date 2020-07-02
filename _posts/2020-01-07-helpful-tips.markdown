@@ -18,10 +18,7 @@ We may easily open a new notebook or a terminal, start to write code, and immidi
 
 Start Jupyter Lab:
 
-<video style="width:100%" controls>
-    <source src="/assets/start-jupyter-lab.webm" type="video/webm">
-    Your browser does not support the video tag.
-</video>
+![alt text](/assets/start-jupyter-lab.gif "Start Jupyter Lab")
 
 Execute simple code for Python:
 todo ->
