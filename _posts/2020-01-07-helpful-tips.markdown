@@ -17,7 +17,12 @@ Let's see what we may get after installation and configuration Jupyter Lab, kern
 We may easily open a new notebook or a terminal, start to write code, and immidiatly get result.
 
 Start Jupyter Lab:
-todo ->
+<figure class="video_container">
+  <video controls="true" width=100% height=100%>
+    <source src="/assets/start-jupyter-lab.webm" type="video/webm">
+    Your browser does not support the video tag.
+  </video>
+</figure>
 
 Execute simple code for Python:
 todo ->
