@@ -9,13 +9,13 @@ Today I would like to share some tips about how to learn, use, and improve progr
 
 ![helpful-tips](/assets/helpful-tips-diagram.png "Helpful tips diagram")   
 
-Before start let's discuss a little bit about why I decided to write this specific article and share my experience. Many times during my professional path I had a situation where I need quickly to verify, understand or implement a concept, piece of code, simple function, class method, compare results between two solutions, etc. And every time it was a pain. <br>
-For example each programming language you need a special environment, IDE, and many other things. But I don't want to spend my time dealing with all these things. I need one solution for everything, and it should be fast, robust, and useful. <br>
+Before we start, let's discuss a little bit about why I decided to write this specific article and share my experience. Many times during my professional path I had a situation where I needed verify quickly, understand or implement a concept, piece of code, simple function, class method, compare results between two solutions, etc. And every time it was a pain. <br>
+For example, each programming language requires a special environment, IDE, and many other things. But I don't want to spend my time dealing with all thise things. I needed one solution for everything, and it should have been fast, robust, and useful. <br>
 This is the reason why I came up with an idea to use [Jupyter Notebook](https://jupyter.org/) then [Jupyter Lab](https://jupyter.org/install.html) as a platform for my virtual laboratory.
 
 Jupyter Lab can execute code (e.g. Python, Java, etc.) in a browser and returns results to the user immediately. It's possible because Jupyter supports [kernels for many programming languages](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels).
 
-Let’s see what we may get after installation and configuration Jupyter Lab, kernels for Python, Java, JavaScript, and Julia programming languages (even SQL!). We may easily open a new notebook or a terminal, start to write code, and immediately get results.
+Let’s see what we get after installing and configuring Jupyter Lab, kernels for Python, Java, JavaScript, and Julia programming languages (even SQL!). We can easily open a new notebook or a terminal, start to writing code, and immediately get results.
 
 Start Jupyter Lab:
 
@@ -33,8 +33,8 @@ Execute simple code for Java:
 
 ![alt text](/assets/java-code.gif "Java code samlpe")
 
-This approach is easy and fast (per my humble opinion). Do you agree with me? <br>
-Yes, I understand you need to spend some time installing and configure everything but in the end, you will get your own virtual laboratory for experiments and what is more exited thing is you may easily share your experiments with other people.
+This approach is easy and fast (per my humble opinion). Would you agree with me? <br>
+Yes, I understand you need to spend some time installing and configuring everything, but in the end, you will get your own virtual laboratory for experiments and what is more exciting is that you can easily share your experiments with other people.
 
 How to share code (as html):
 
