@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Helpful tips"
+title:  "Helpful tips | Jupyter Lab"
 date:   2020-07-01 00:00:00 -0500
 categories: software development training 
 ---
