@@ -41,7 +41,7 @@ How to share code (as html):
 
 ![alt text](/assets/share-code-via-html.gif "Share code via html sample")
 
-I hope this knowledge will open a new horizont for you. <br>
+I hope this knowledge will open a new horizon for you. <br>
 
 Thanks for reading and don't stop learning and trying new things! <br>
 
