@@ -15,8 +15,7 @@ This is the reason why I came up with an idea to use [Jupiter Notebook](https://
 
 Jupiter Lab can execute code (e.g. Python, Java, etc.) in a browser and returns results to the user immediately. It's possible because Jupiter supports [kernels for many programming languages](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels).
 
-Let's see what we may get after installation and configuration Jupyter Lab, kernels for Python, Java, JavaScript, and Julia programming languages.
-We may easily open a new notebook or a terminal, start to write code, and immidiatly get result.
+Let’s see what we may get after installation and configuration Jupyter Lab, kernels for Python, Java, JavaScript, and Julia programming languages. We may easily open a new notebook or a terminal, start to write code, and immediately get results.
 
 Start Jupyter Lab:
 
