@@ -35,15 +35,21 @@ Execute simple code for Java:
 This approach is easy and fast (per my humble opinion). Do you agree with me? <br>
 Yes, I understand you need to spend some time installing and configure everything but in the end, you will get your own virtual laboratory for experiments and what is more exited thing is you may easily share your experiments with other peoples.
 
-Show how to share code:
+How to share code (as html):
 
 ![alt text](/assets/share-code-via-html.gif "Share code via html sample")
 
 I hope this knowledge opens a new horizon for you. <br>
+
 Feel free to reach me via [email](mailto:baur.urazalinov@gmail.com), [LinkedIn](https://www.linkedin.com/in/burazalinov), or [Twitter](https://www.twitter.com/BaurDotPy). <br>
+
 Thanks for reading and don't stop learning and trying new things! <br>
 
-Technology stack and documentation:
+P/S: one more sample how to check code (or concept):
+
+![alt text](/assets/python-code-2.gif "Python code samlpe 2")
+
+## Technology stack and documentation:
  - [Jupyter lab](https://jupyterlab.readthedocs.io/en/stable/)
  - [Jupyter kernels](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels)
  - [Python](https://www.python.org/)
