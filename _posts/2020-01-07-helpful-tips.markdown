@@ -29,7 +29,8 @@ Execute simple code for JavaScript:
 ![alt text](/assets/javascript-code.gif "JavaScript code samlpe")
 
 Execute simple code for Java:
-todo ->
+
+![alt text](/assets/java-code.gif "Java code samlpe")
 
 This approach is easy and fast (per my humble opinion). Do you agree with me? <br>
 Yes, I understand you need to spend some time installing and configure everything but in the end, you will get your own virtual laboratory for experiments and what is more exited thing is you may easily share your experiments with other peoples.
