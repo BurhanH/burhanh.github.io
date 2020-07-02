@@ -36,7 +36,8 @@ This approach is easy and fast (per my humble opinion). Do you agree with me? <b
 Yes, I understand you need to spend some time installing and configure everything but in the end, you will get your own virtual laboratory for experiments and what is more exited thing is you may easily share your experiments with other peoples.
 
 Show how to share code:
-todo ->
+
+![alt text](/assets/share-code-via-html.gif "Share code via html sample")
 
 I hope this knowledge opens a new horizon for you. <br>
 Feel free to reach me via [email](mailto:baur.urazalinov@gmail.com), [LinkedIn](https://www.linkedin.com/in/burazalinov), or [Twitter](https://www.twitter.com/BaurDotPy). <br>
