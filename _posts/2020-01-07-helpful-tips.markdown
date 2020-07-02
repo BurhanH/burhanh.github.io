@@ -25,7 +25,8 @@ Execute simple code for Python:
 ![alt text](/assets/python-code.gif "Python code samlpe")
 
 Execute simple code for JavaScript:
-todo ->
+
+![alt text](/assets/javascript-code.gif "JavaScript code samlpe")
 
 Open terminal and run Java:
 todo ->
