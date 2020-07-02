@@ -21,7 +21,8 @@ Start Jupyter Lab:
 ![alt text](/assets/start-jupyter-lab.gif "Start Jupyter Lab")
 
 Execute simple code for Python:
-todo ->
+
+![alt text](/assets/python-code.gif "Python code samlpe")
 
 Execute simple code for JavaScript:
 todo ->
