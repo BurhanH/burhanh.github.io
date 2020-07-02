@@ -51,11 +51,11 @@ P/S: One more sample how to check code (or concept):
 
 ![alt text](/assets/python-code-2.gif "Python code samlpe 2")
 
-<b>Technology stack and documentation:</b>
-[Jupyter lab](https://jupyterlab.readthedocs.io/en/stable/)
-[Jupyter kernels](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels)
-[Python](https://www.python.org/)
-[Java](https://www.java.com/en/)
-[JavaScript](https://www.javascript.com/)
-[Julia](https://julialang.org/)
-[SQL](https://www.w3schools.com/sql/)
+<b>Technology stack and documentation:</b><br>
+[Jupyter lab](https://jupyterlab.readthedocs.io/en/stable/) <br>
+[Jupyter kernels](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels) <br>
+[Python](https://www.python.org/) <br>
+[Java](https://www.java.com/en/) <br>
+[JavaScript](https://www.javascript.com/) <br>
+[Julia](https://julialang.org/) <br>
+[SQL](https://www.w3schools.com/sql/) <br>
