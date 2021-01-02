@@ -43,7 +43,7 @@ In Data analysis section you will find projects related to data analysis. <br>
 Automation
 ----------
 This project was developed to show how possible to automate similar scenarios on different programming languages and a variety of testing frameworks.
-I have tried to cover popular testing approaches such as UI testing with popular Selenium and API testing.
+I have tried to cover popular testing approaches such as UI testing, API testing, and Performance/Load testing.
 
 ![alt text](/assets/automaton.png "Automaton") <br>
 
@@ -70,3 +70,5 @@ List of repositories: <br>
 19) [Automaton-v19](https://github.com/BurhanH/automaton-v19 "Automaton-v19 project") Appium, Android, NodeJS, Python (Under construction) <br>
 20) [Automaton-v20](https://github.com/BurhanH/Automaton-v20 "Automaton-v20 project") API validation, Java, REST assured, JUnit <br>
 21) [Automaton-v21](https://github.com/BurhanH/Automaton-v21 "Automaton-v21 project") UI + REST API validation, Cypress, Mocha <br>
+22) [Automaton-v22](https://github.com/BurhanH/Automaton-v22 "Automaton-v22 project") Performance | Load testing, Python, Locust <br>
+
