@@ -71,4 +71,3 @@ List of repositories: <br>
 20) [Automaton-v20](https://github.com/BurhanH/Automaton-v20 "Automaton-v20 project") API validation, Java, REST assured, JUnit <br>
 21) [Automaton-v21](https://github.com/BurhanH/Automaton-v21 "Automaton-v21 project") UI + REST API validation, Cypress, Mocha <br>
 22) [Automaton-v22](https://github.com/BurhanH/Automaton-v22 "Automaton-v22 project") Performance | Load testing, Python, Locust <br>
-
