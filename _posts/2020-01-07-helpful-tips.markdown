@@ -44,7 +44,7 @@ I hope this knowledge will open a new horizon for you. <br>
 
 Thanks for reading and don't stop learning and trying new things! <br>
 
-Feel free to reach me via [email](mailto:baur.urazalinov@gmail.com), [LinkedIn](https://www.linkedin.com/in/burazalinov), or [Twitter](https://www.twitter.com/BaurDotPy). <br>
+Feel free to reach me via [email](mailto:baur.urazalinov@gmail.com), [LinkedIn](https://www.linkedin.com/in/burazalinov). <br>
 
 P/S: One more sample how to check code (or concept):
 
