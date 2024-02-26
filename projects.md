@@ -10,25 +10,13 @@ In this section, you can find web projects which I developed. <br>
 
 ![web applications](/assets/web_apps.png "Web applications") <br>
 
-The [REST API app](https://api-flask-baur.herokuapp.com/ "REST API application") is a prototype of REST API on Flask application. The source code [here](https://github.com/BurhanH/api-app-3). <br>
-
-Spring boot app, it's my first attempt to build a web application with Spring framework and Java. [Source code.](https://github.com/BurhanH/springframework-java-sample) <br>
-
-Connect four the game, as a part of "Python and Django Full Stack Web Developer" Bootcamp. [Source code here.](https://github.com/BurhanH/connect-four) <br>
-
 Tic Tac Toe the game, as a part of "Python and Django Full Stack Web Developer" Bootcamp. [Source code.](https://github.com/BurhanH/tic-tac-toe) <br>
 
-The [REST API app](https://django-api-test.herokuapp.com/api/v1/apiapp/ "REST API application") is an example of how possible to add REST API in Django application. As usual you may find a source code [here](https://github.com/BurhanH/api-app). <br>
-
-The [weather app](https://aua-raiy.herokuapp.com/ "Weather application") will show you the weather in a particular city on Earth. You can check code and details here - [source code](https://github.com/BurhanH/weather-app). <br>
-
-The Newspaper application - the app was developed to understand how works Django web framework. [source code](https://github.com/BurhanH/areket) <br>
-
-One page app - an example of how to develop a web application via Flask web framework. [source code](https://github.com/BurhanH/torsyk) <br>
+The [weather app](https://aua-raiy.herokuapp.com/ "Weather application") will show you the weather in a particular city on Earth. You can check the code and details here - [source code](https://github.com/BurhanH/weather-app). <br>
 
 Data analysis
 -------------
-In Data analysis section you will find projects related to data analysis. <br>
+In the Data analysis section, you will find projects related to data analysis. <br>
 
 ![data analysis](/assets/data-analysis.png "Data Analysis") <br>
 
@@ -62,7 +50,7 @@ List of repositories: <br>
 11) [Automaton-v11](https://github.com/BurhanH/automaton-v11 "Automaton-v11 project") UI validation, Java, Selenium, TestNG <br>
 12) [Automaton-v12](https://github.com/BurhanH/automaton-v12 "Automaton-v12 project") UI validation, Java, Selenium, TestNG, PageFactory <br>
 13) [Automaton-v13](https://github.com/BurhanH/automaton-v13 "Automaton-v13 project") Java, Junit, Cucumber <br>
-14) [Automaton-v14](https://github.com/BurhanH/automaton-v14 "Automaton-v14 project") UI validation, Java, Junit, Cucumber, Selenium, PageFactory <br>
+14) [Automaton-v14](https://github.com/BurhanH/automaton-v14 "Automaton-v14 project") UI validation, Java, JUnit, Cucumber, Selenium, PageFactory <br>
 15) [Automaton-v15](https://github.com/BurhanH/automaton-v15 "Automaton-v15 project") API validation, JavaScript, Mocha, Chai, Supertest <br>
 16) [Automaton-v16](https://github.com/BurhanH/automaton-v16 "Automaton-v16 project") Test Infrastructure, Travis CI, Docker, Selenium Grid <br>
 17) [Automaton-v17](https://github.com/BurhanH/automaton-v17 "Automaton-v17 project") Chatbot validation, Python, Unittest <br>
