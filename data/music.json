@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "title": "Track 1: Electrifying Vibes",
+        "description": "suno.ai, retro, synthwave",
+        "audio": "./music/ElectrifyingVibes.mp3",
+        "artwork": "./images/ElectrifyingVibes.jpeg",
+        "releaseDate": "2025-03-02",
+        "published": true
+    },
+    {
+        "id": 2,
+        "title": "Track 2: Electric Pulse",
+        "description": "suno.ai, tone, emotional, electronic, piano and synth",
+        "audio": "./music/ElectricPulse.mp3",
+        "artwork": "./images/ElectricPulse.jpeg",
+        "releaseDate": "2025-03-02",
+        "published": true
+    },
+    {
+        "id": 3,
+        "title": "Track 3: Feel The Night",
+        "description": "suno.ai, pulsating, electronic dance, electronic, dance",
+        "audio": "./music/FeelTheNight.mp3",
+        "artwork": "./images/FeelTheNight.jpeg",
+        "releaseDate": "2025-03-02",
+        "published": true
+    },
+    {
+        "id": 4,
+        "title": "Track 4: Chasing Paper Dreams",
+        "description": "suno.ai, synth-driven, lofi, chill",
+        "audio": "./music/ChasingPaperDreams.mp3",
+        "artwork": "./images/ChasingPaperDreams.jpeg",
+        "releaseDate": "2025-03-02",
+        "published": true
+    },
+    {
+        "id": 5,
+        "title": "Track 5: Cosmic Drive",
+        "description": "suno.ai, tone, synthwave, retro",
+        "audio": "./music/CosmicDrive.mp3",
+        "artwork": "./images/CosmicDrive.jpeg",
+        "releaseDate": "2025-03-02",
+        "published": true
+    },
+    {
+        "id": 6,
+        "title": "Track 6: Cosmic Drive V2",
+        "description": "suno.ai, tone, synthwave, retro",
+        "audio": "./music/CosmicDriveV2.mp3",
+        "artwork": "./images/CosmicDrive.jpeg",
+        "releaseDate": "2025-03-02",
+        "published": true
+    }
+]
