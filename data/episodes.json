@@ -5,6 +5,7 @@
         "description": "Six cutting-edge stories in tech and science, narrated by AI.",
         "audio": "./audio/episode-1.mp3",
         "releaseDate": "2025-03-02",
-        "published": true
+        "published": true,
+        "transcript": "transcripts/episode-1.json"
     }
 ]
