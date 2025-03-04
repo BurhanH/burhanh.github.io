@@ -40,6 +40,7 @@ document.addEventListener('DOMContentLoaded', () => {
                         section.innerHTML = `
                             <img src="${track.artwork}" alt="${track.title} Artwork" class="artwork">
                             <h2>${track.title}</h2>
+                            <p>${track.releaseDate}</p>
                             <p>${track.description}</p>
                         `;
                         section.addEventListener('click', () => {
