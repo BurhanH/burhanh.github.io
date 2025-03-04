@@ -52,5 +52,41 @@
         "artwork": "./images/CosmicDrive.jpeg",
         "releaseDate": "2025-03-02",
         "published": true
+    },
+    {
+        "id": 7,
+        "title": "Track 7: Directly Into Space",
+        "description": "suno.ai, electro house, deep, tech house, deep house",
+        "audio": "./music/DirectlyIntoSpace.mp3",
+        "artwork": "./images/DirectlyIntoSpace.jpeg",
+        "releaseDate": "2025-03-03",
+        "published": true
+    },
+    {
+        "id": 8,
+        "title": "Track 8: 輝く奇跡",
+        "description": "suno.ai, pop rock, piano rock, diverse musical styles, strong emotional expression, clear, warm, gentle, t captivating melodies, infectious, live performances, impactful, Japanese young band",
+        "audio": "./music/輝く奇跡.mp3",
+        "artwork": "./images/輝く奇跡.jpeg",
+        "releaseDate": "2025-03-03",
+        "published": true
+    },
+    {
+        "id": 9,
+        "title": "Track 9: Pixelated Dream",
+        "description": "suno.ai, 8bit, electronic, intensive",
+        "audio": "./music/PixelatedDream.mp3",
+        "artwork": "./images/PixelatedDream.jpeg",
+        "releaseDate": "2025-03-03",
+        "published": true
+    },
+    {
+        "id": 10,
+        "title": "Track 10: Whisper Of The Pines",
+        "description": "suno.ai, classical, piano, cello, flute, classic",
+        "audio": "./music/WhisperOfThePines.mp3",
+        "artwork": "./images/WhisperOfThePines.jpeg",
+        "releaseDate": "2025-03-03",
+        "published": true
     }
 ]
