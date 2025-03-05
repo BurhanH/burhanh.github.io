@@ -68,8 +68,10 @@ document.addEventListener('DOMContentLoaded', () => {
                     section.className = 'episode';
                     section.setAttribute('data-src', episode.audio);
                     section.setAttribute('data-title', episode.title);
+                    // Add language icon based on language field
+                    const langIcon = episode.language === 'pt' ? '<i class="fas fa-globe-americas" title="Portuguese"></i>' : '<i class="fas fa-globe-europe" title="English"></i>';
                     section.innerHTML = `
-                        <h2>${episode.title}</h2>
+                        <h2>${episode.title} <span class="lang-icon">${langIcon}</span></h2>
                         <p>${episode.description}</p>
                         <button class="transcript-toggle">Show Transcript</button>
                         <div class="transcript" style="display: none;"></div>
@@ -81,7 +83,7 @@ document.addEventListener('DOMContentLoaded', () => {
                         player.play();
                     });
 
-                    // Load transcript without timestamps
+                    // Load transcript
                     if (episode.transcript) {
                         const toggle = section.querySelector('.transcript-toggle');
                         const transcriptDiv = section.querySelector('.transcript');
@@ -112,5 +114,3 @@ document.addEventListener('DOMContentLoaded', () => {
             .catch(error => console.error('Error loading episodes:', error));
     }
 });
-
-console.log("Site loaded!");

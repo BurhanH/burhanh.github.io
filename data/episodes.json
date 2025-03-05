@@ -3,9 +3,20 @@
         "id": 1,
         "title": "TechPulse AI - Episode 1: The AI Revolution Unveiled",
         "description": "Six cutting-edge stories in tech and science, narrated by AI.",
-        "audio": "./audio/episode-1.mp3",
+        "audio": "./audio/episode-1-us.mp3",
         "releaseDate": "2025-03-02",
         "published": true,
-        "transcript": "transcripts/episode-1.json"
+        "transcript": "transcripts/episode-1-us.json",
+        "language": "en"
+    },
+    {
+        "id": 2,
+        "title": "TechPulse AI - Episódio 1: A Revolução da IA Revelada",
+        "description": "Seis histórias de ponta em tecnologia e ciência, narradas por IA.",
+        "audio": "audio/episode-1-pt.mp3",
+        "releaseDate": "2025-03-04",
+        "published": true,
+        "transcript": "transcripts/episode-1-pt.json",
+        "language": "pt"
     }
 ]
