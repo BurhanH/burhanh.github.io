@@ -18,5 +18,15 @@
         "published": true,
         "transcript": "transcripts/episode-1-pt.json",
         "language": "pt"
+    },
+    {
+        "id": 3,
+        "title": "TechPulse AI - Episode 2: Frontiers of Innovation",
+        "description": "Six new stories pushing the boundaries of tech and science.",
+        "audio": "audio/episode-2-us.mp3",
+        "releaseDate": "2025-03-09",
+        "published": true,
+        "transcript": "transcripts/episode-2-us.json",
+        "language": "en"
     }
 ]
