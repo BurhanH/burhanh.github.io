@@ -88,5 +88,41 @@
         "artwork": "./images/WhisperOfThePines.jpeg",
         "releaseDate": "2025-03-03",
         "published": true
+    },
+    {
+        "id": 11,
+        "title": "Track 11: Brisa Do Mar",
+        "description": "suno.ai, brazilian, rock, uplifting, funny, yacht rock, lounge",
+        "audio": "./music/BrisaDoMar.mp3",
+        "artwork": "./images/BrisaDoMar.jpeg",
+        "releaseDate": "2025-03-05",
+        "published": true
+    },
+    {
+        "id": 12,
+        "title": "Track 12: Ballad Of The Midnight Gauntlet",
+        "description": "suno.ai, emotional, strong, punk, electronic, rap, dramatic, fusion of rap and gothic symphony, medieval-inspired",
+        "audio": "./music/BalladOfTheMidnightGauntlet.mp3",
+        "artwork": "./images/BalladOfTheMidnightGauntlet.jpeg",
+        "releaseDate": "2025-03-05",
+        "published": true
+    },
+    {
+        "id": 13,
+        "title": "Track 13: Shadows Of Fire",
+        "description": "suno.ai, emotional, intense, dramatic, dynamic, electric, alternative rock, violin, rock, cinematic, soundtrack",
+        "audio": "./music/ShadowsOfFire.mp3",
+        "artwork": "./images/ShadowsOfFire.jpeg",
+        "releaseDate": "2025-03-05",
+        "published": true
+    },
+    {
+        "id": 14,
+        "title": "Track 14: Echoes Of The Steppe",
+        "description": "suno.ai, instrumental, diverse instrumentation, kazakh traditional fusion, cultural heritage",
+        "audio": "./music/EchoesOfTheSteppe.mp3",
+        "artwork": "./images/EchoesOfTheSteppe.jpeg",
+        "releaseDate": "2025-03-05",
+        "published": true
     }
 ]
