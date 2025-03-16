@@ -28,5 +28,15 @@
         "published": true,
         "transcript": "transcripts/episode-2-us.json",
         "language": "en"
+    },
+    {
+        "id": 4,
+        "title": "TechPulse AI - Episode 3: Beyond the Horizon",
+        "description": "Six stories exploring the next frontier of tech and science.",
+        "audio": "audio/episode-3-us.mp3",
+        "releaseDate": "2025-03-16",
+        "published": true,
+        "transcript": "transcripts/episode-3-us.json",
+        "language": "en"
     }
 ]
