@@ -141,6 +141,10 @@ footer {
     background: var(--hover-bg);
 }
 
+.lang-icon i:hover {
+    color: #007BFF; /* Light theme hover */
+}
+
 #theme-toggle i {
     transition: transform 0.3s;
 }
@@ -191,10 +195,6 @@ footer {
 
 .lang-icon i {
     color: var(--text-color);
-}
-
-.lang-icon i:hover {
-    color: #007BFF; /* Light theme hover */
 }
 
 [data-theme="dark"] .lang-icon i:hover {
