@@ -51,7 +51,7 @@ document.addEventListener("DOMContentLoaded", () => {
                           musicList.appendChild(section);
                       });
             })
-            .catch((error) => console.error("Error loading music:", error));
+            .catch((error) => console.error("Error loading music:", error)); // eslint-disable-line no-console
     } else if (isArchivePage || !isAboutPage) {
         fetch("data/episodes.json")
             .then(response => response.json())
@@ -97,7 +97,7 @@ document.addEventListener("DOMContentLoaded", () => {
                                     transcriptDiv.appendChild(p);
                                 });
                             })
-                            .catch((error) => console.error("Error loading transcript:", error));
+                            .catch((error) => console.error("Error loading transcript:", error)); // eslint-disable-line no-console
 
                         toggle.addEventListener("click", () => {
                             const isHidden = transcriptDiv.style.display === "none" || transcriptDiv.style.display === "";
@@ -111,6 +111,6 @@ document.addEventListener("DOMContentLoaded", () => {
                     episodeList.appendChild(section);
                 });
             })
-            .catch((error) => console.error("Error loading episodes:", error));
+            .catch((error) => console.error("Error loading episodes:", error)); // eslint-disable-line no-console
     }
 });
