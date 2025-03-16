@@ -10,7 +10,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const root = document.documentElement;
 
     // Load saved theme
-    const savedTheme = localStorage.getItem("theme") || 'light';
+    const savedTheme = localStorage.getItem("theme") || "light";
     root.setAttribute('data-theme', savedTheme);
     themeIcon.className = savedTheme === "light" ? "fas fa-lightbulb" : "fas fa-moon";
 
@@ -69,7 +69,7 @@ document.addEventListener("DOMContentLoaded", () => {
                     section.setAttribute("data-src", episode.audio);
                     section.setAttribute("data-title", episode.title);
                     // Add language icon based on language field
-                    const langIcon = episode.language === "pt" ? '<i class="fas fa-globe-americas" title="Portuguese"></i>' : '<i class="fas fa-globe-europe" title="English"></i>';
+                    const langIcon = episode.language === "pt" ? "<i class=\"fas fa-globe-americas\" title=\"Portuguese\"></i>" : "<i class=\"fas fa-globe-europe\" title=\"English\"></i>";
                     section.innerHTML = `
                         <h2>${episode.title} <span class="lang-icon">${langIcon}</span></h2>
                         <p>${episode.description}</p>
@@ -91,21 +91,21 @@ document.addEventListener("DOMContentLoaded", () => {
                             .then(response => response.json())
                             .then((transcriptData) => {
                                 transcriptDiv.innerHTML = "<h3>Transcript</h3>";
-                                transcriptData.transcript.forEach(entry => {
-                                    const p = document.createElement('p');
+                                transcriptData.transcript.forEach((entry) => {
+                                    const p = document.createElement("p");
                                     p.innerHTML = entry;
                                     transcriptDiv.appendChild(p);
                                 });
                             })
                             .catch((error) => console.error("Error loading transcript:", error));
 
-                        toggle.addEventListener('click', () => {
-                            const isHidden = transcriptDiv.style.display === 'none' || transcriptDiv.style.display === '';
-                            transcriptDiv.style.display = isHidden ? 'block' : 'none';
-                            toggle.textContent = isHidden ? 'Hide Transcript' : 'Show Transcript';
+                        toggle.addEventListener("click", () => {
+                            const isHidden = transcriptDiv.style.display === "none" || transcriptDiv.style.display === "";
+                            transcriptDiv.style.display = isHidden ? "block" : "none";
+                            toggle.textContent = isHidden ? "Hide Transcript" : "Show Transcript";
                         });
                     } else {
-                        section.querySelector('.transcript-toggle').style.display = 'none';
+                        section.querySelector(".transcript-toggle").style.display = "none";
                     }
 
                     episodeList.appendChild(section);
