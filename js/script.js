@@ -54,25 +54,25 @@ document.addEventListener("DOMContentLoaded", () => {
             })
             .catch((error) => console.error("Error loading music:", error)); // eslint-disable-line no-console
     } else if (isConversationPage) {
-        fetch('data/conversation.json')
-            .then(response => response.json())
-            .then(episodes => {
-                const conversationList = document.getElementById('conversation-list');
+        fetch("data/conversation.json")
+            .then((response) => response.json())
+            .then((episodes) => {
+                const conversationList = document.getElementById("conversation-list");
                 episodes.filter(episode => episode.published)
                         .sort((a, b) => new Date(b.releaseDate) - new Date(a.releaseDate))
-                        .forEach(episode => {
-                            const section = document.createElement('section');
-                            section.className = 'episode';
-                            section.setAttribute('data-src', episode.audio);
-                            section.setAttribute('data-title', episode.title);
-                            const langIcon = episode.language === 'pt' ? '<i class="fas fa-globe-americas" title="Portuguese"></i>' : '<i class="fas fa-globe-europe" title="English"></i>';
+                        .forEach((episode) => {
+                            const section = document.createElement("section");
+                            section.className = "episode";
+                            section.setAttribute("data-src", episode.audio);
+                            section.setAttribute("data-title", episode.title);
+                            const langIcon = episode.language === "pt" ? "<i class=\"fas fa-globe-americas\" title=\"Portuguese\"></i>" : "<i class=\"fas fa-globe-europe\" title=\"English\"></i>";
                             section.innerHTML = `
                                 <h2>${episode.title} <span class="lang-icon">${langIcon}</span></h2>
                                 <p>${episode.description}</p>
                                 <button class="transcript-toggle">Show Transcript</button>
                                 <div class="transcript" style="display: none;"></div>
                             `;
-                            section.addEventListener('click', () => {
+                            section.addEventListener("click", () => {
                                 source.src = episode.audio;
                                 title.textContent = episode.title;
                                 player.load();
@@ -80,33 +80,33 @@ document.addEventListener("DOMContentLoaded", () => {
                             });
 
                             if (episode.transcript) {
-                                const toggle = section.querySelector('.transcript-toggle');
-                                const transcriptDiv = section.querySelector('.transcript');
+                                const toggle = section.querySelector(".transcript-toggle");
+                                const transcriptDiv = section.querySelector(".transcript");
                                 fetch(episode.transcript)
                                     .then(response => response.json())
-                                    .then(transcriptData => {
-                                        transcriptDiv.innerHTML = `<h3>Transcript</h3>`;
-                                        transcriptData.transcript.forEach(entry => {
-                                            const p = document.createElement('p');
+                                    .then((transcriptData) => {
+                                        transcriptDiv.innerHTML = "<h3>Transcript</h3>";
+                                        transcriptData.transcript.forEach((entry) => {
+                                            const p = document.createElement("p");
                                             p.innerHTML = entry;
                                             transcriptDiv.appendChild(p);
                                         });
                                     })
-                                    .catch(error => console.error('Error loading transcript:', error));
+                                    .catch((error) => console.error("Error loading transcript:", error)); // eslint-disable-line no-console
 
-                                toggle.addEventListener('click', () => {
-                                    const isHidden = transcriptDiv.style.display === 'none' || transcriptDiv.style.display === '';
-                                    transcriptDiv.style.display = isHidden ? 'block' : 'none';
-                                    toggle.textContent = isHidden ? 'Hide Transcript' : 'Show Transcript';
+                                toggle.addEventListener("click", () => {
+                                    const isHidden = transcriptDiv.style.display === "none" || transcriptDiv.style.display === "";
+                                    transcriptDiv.style.display = isHidden ? "block" : "none";
+                                    toggle.textContent = isHidden ? "Hide Transcript" : "Show Transcript";
                                 });
                             } else {
-                                section.querySelector('.transcript-toggle').style.display = 'none';
+                                section.querySelector(".transcript-toggle").style.display = "none";
                             }
 
                             conversationList.appendChild(section);
                         });
             })
-            .catch(error => console.error('Error loading conversations:', error));
+            .catch((error) => console.error("Error loading conversations:", error)); // eslint-disable-line no-console
         }
     else if (isArchivePage || !isAboutPage) {
         fetch("data/episodes.json")
