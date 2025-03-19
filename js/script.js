@@ -31,7 +31,7 @@ document.addEventListener("DOMContentLoaded", () => {
             .then((tracks) => {
                 const musicList = document.getElementById("music-list");
                 tracks.filter((track) => track.published)
-                      .sort((a, b) => new Date(b.releaseDate) - new Date(a.releaseDate))
+                      .sort((a, b) => b.id - a.id)
                       .forEach((track) => {
                           const section = document.createElement("section");
                           section.className = "track";
@@ -59,7 +59,7 @@ document.addEventListener("DOMContentLoaded", () => {
             .then((episodes) => {
                 const conversationList = document.getElementById("conversation-list");
                 episodes.filter(episode => episode.published)
-                        .sort((a, b) => new Date(b.releaseDate) - new Date(a.releaseDate))
+                        .sort((a, b) => b.id - a.id)
                         .forEach((episode) => {
                             const section = document.createElement("section");
                             section.className = "episode";
@@ -115,7 +115,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 const episodeList = document.getElementById("episode-list");
                 let filteredEpisodes = episodes
                     .filter((episode) => episode.published)
-                    .sort((a, b) => new Date(b.releaseDate) - new Date(a.releaseDate));
+                    .sort((a, b) => b.id - a.id);
                 if (!isArchivePage) {
                     filteredEpisodes = filteredEpisodes.slice(0, 1);
                 }
