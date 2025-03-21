@@ -88,5 +88,15 @@
         "published": true,
         "transcript": "transcripts/conversation-009-us.json",
         "language": "en"
+    },
+    {
+        "id": 10,
+        "title": "TechPulse AI - Conversation 10: NotebookLM: Research Workflows",
+        "description": "NotebookLM, a Google AI tool designed to enhance research and content creation by analyzing uploaded documents like PDFs, text files, Google Drive items, website links, and YouTube videos.",
+        "audio": "audio/conversation-010-us.mp3",
+        "releaseDate": "2025-03-20",
+        "published": true,
+        "transcript": "transcripts/conversation-010-us.json",
+        "language": "en"
     }
 ]
