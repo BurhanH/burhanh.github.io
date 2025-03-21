@@ -78,5 +78,15 @@
         "published": true,
         "transcript": "transcripts/conversation-008-us.json",
         "language": "en"
+    },
+    {
+        "id": 9,
+        "title": "TechPulse AI - Conversation 9: tj-actions/changed-files GitHub Action Compromised",
+        "description": "Two AI hosts discuss a critical security incident affecting the popular tj-actions/changed-files GitHub Action.",
+        "audio": "audio/conversation-009-us.mp3",
+        "releaseDate": "2025-03-20",
+        "published": true,
+        "transcript": "transcripts/conversation-009-us.json",
+        "language": "en"
     }
 ]
