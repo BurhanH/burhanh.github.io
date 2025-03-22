@@ -98,5 +98,15 @@
         "published": true,
         "transcript": "transcripts/conversation-010-us.json",
         "language": "en"
+    },
+    {
+        "id": 11,
+        "title": "TechPulse AI - Conversation 11: GitHub's AI Vision: From Code Completion to Intelligent Agents",
+        "description": "AI hosts discuss a conversation with GitHub CEO Thomas Dohmke, exploring GitHub's advancements in AI-powered developer tools, particularly Copilot and its evolving capabilities.",
+        "audio": "audio/conversation-011-us.mp3",
+        "releaseDate": "2025-03-22",
+        "published": true,
+        "transcript": "transcripts/conversation-011-us.json",
+        "language": "en"
     }
 ]
