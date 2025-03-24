@@ -38,5 +38,15 @@
         "published": true,
         "transcript": "transcripts/episode-3-us.json",
         "language": "en"
+    },
+    {
+        "id": 5,
+        "title": "TechPulse AI - Episode 4: Six Breakthroughs Reshaping Tech",
+        "description": "Kokoro unpacks six cutting-edge tech innovations from March 2025.",
+        "audio": "audio/episode-4-us.mp3",
+        "releaseDate": "2025-03-23",
+        "published": true,
+        "transcript": "transcripts/episode-4-us.json",
+        "language": "en"
     }
 ]
