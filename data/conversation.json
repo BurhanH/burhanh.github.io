@@ -128,5 +128,35 @@
         "published": true,
         "transcript": "transcripts/conversation-013-us.json",
         "language": "en"
+    },
+    {
+        "id": 14,
+        "title": "TechPulse AI - Conversation 14: Brain Mapping of Natural Language with a Unified Acoustic-to-Language Model",
+        "description": "This research introduces a unified computational model that bridges acoustic input, spoken language, and linguistic meaning to understand the neural processing of everyday conversations.",
+        "audio": "audio/conversation-014-us.mp3",
+        "releaseDate": "2025-03-23",
+        "published": true,
+        "transcript": "transcripts/conversation-014-us.json",
+        "language": "en"
+    },
+    {
+        "id": 15,
+        "title": "TechPulse AI - Conversation 15: Mathematics of Machine Learning: Binary Classification and Beyond",
+        "description": "These lecture notes from an MIT course on the Mathematics of Machine Learning explore the theoretical underpinnings of various machine learning techniques.",
+        "audio": "audio/conversation-015-us.mp3",
+        "releaseDate": "2025-03-23",
+        "published": true,
+        "transcript": "transcripts/conversation-015-us.json",
+        "language": "en"
+    },
+    {
+        "id": 16,
+        "title": "TechPulse AI - Conversation 16: Information Theory: Entropy, Divergence, and Mutual Information",
+        "description": "This Oxford Mathematics lecture introduces information theory, focusing on the mathematical understanding of communication.",
+        "audio": "audio/conversation-016-us.mp3",
+        "releaseDate": "2025-03-23",
+        "published": true,
+        "transcript": "transcripts/conversation-016-us.json",
+        "language": "en"
     }
 ]
