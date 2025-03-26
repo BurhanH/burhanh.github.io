@@ -124,5 +124,32 @@
         "artwork": "./images/EchoesOfTheSteppe.jpeg",
         "releaseDate": "2025-03-05",
         "published": true
+    },
+    {
+        "id": 15,
+        "title": "Track 15: Stop Playing With My Heart",
+        "description": "suno.ai, 80's LA Sleaze Rock, 80's LA Glam Rock, 80's Metal, 80's LA Hair Metal, Synth Wave, Retro Wave, 80's Synth Pop",
+        "audio": "./music/StopPlayingWithMyHeart.mp3",
+        "artwork": "./images/StopPlayingWithMyHeart.jpeg",
+        "releaseDate": "2025-03-25",
+        "published": true
+    },
+    {
+        "id": 16,
+        "title": "Track 16: Whispers Of The Forest",
+        "description": "suno.ai, Atmospheric synth-pop eerie, Ballad, Choir, Motown",
+        "audio": "./music/WhispersOfTheForest.mp3",
+        "artwork": "./images/WhispersOfTheForest.jpeg",
+        "releaseDate": "2025-03-25",
+        "published": true
+    },
+    {
+        "id": 17,
+        "title": "Track 17: Beyond The Blue",
+        "description": "suno.ai, cinematic, soundtrack, orchestra, metal",
+        "audio": "./music/BeyondTheBlue.mp3",
+        "artwork": "./images/BeyondTheBlue.jpeg",
+        "releaseDate": "2025-03-25",
+        "published": true
     }
 ]
