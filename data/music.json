@@ -142,5 +142,14 @@
         "artwork": "./images/WhispersOfTheForest.jpeg",
         "releaseDate": "2025-03-25",
         "published": true
+    },
+    {
+        "id": 17,
+        "title": "Track 17: Beyond The Blue",
+        "description": "suno.ai, cinematic, soundtrack, orchestra, metal",
+        "audio": "./music/BeyondTheBlue.mp3",
+        "artwork": "./images/BeyondTheBlue.jpeg",
+        "releaseDate": "2025-03-25",
+        "published": true
     }
 ]
