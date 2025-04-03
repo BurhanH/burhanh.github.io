@@ -208,5 +208,15 @@
         "published": true,
         "transcript": "transcripts/conversation-021-us.json",
         "language": "en"
+    },
+    {
+        "id": 22,
+        "title": "TechPulse AI - Conversation 22: C# SDK for Model Context Protocol Announced",
+        "description": "Microsoft has partnered with Anthropic to develop an official C# SDK for the Model Context Protocol (MCP), an open standard facilitating integration between LLM applications and external resources.",
+        "audio": "audio/conversation-022-us.mp3",
+        "releaseDate": "2025-04-02",
+        "published": true,
+        "transcript": "transcripts/conversation-022-us.json",
+        "language": "en"
     }
 ]
