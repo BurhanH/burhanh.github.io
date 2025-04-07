@@ -3,60 +3,70 @@
         "id": 1,
         "title": "TechPulse AI - Episode 1: The AI Revolution Unveiled",
         "description": "Six cutting-edge stories in tech and science, narrated by AI.",
-        "audio": "./audio/episode-1-us.mp3",
+        "audio": "./audio/episode-001-us.mp3",
         "releaseDate": "2025-03-02",
         "published": true,
-        "transcript": "transcripts/episode-1-us.json",
+        "transcript": "transcripts/episode-001-us.json",
         "language": "en"
     },
     {
         "id": 2,
         "title": "TechPulse AI - Episódio 1: A Revolução da IA Revelada",
         "description": "Seis histórias de ponta em tecnologia e ciência, narradas por IA.",
-        "audio": "audio/episode-1-pt.mp3",
+        "audio": "audio/episode-001-pt.mp3",
         "releaseDate": "2025-03-04",
         "published": true,
-        "transcript": "transcripts/episode-1-pt.json",
+        "transcript": "transcripts/episode-001-pt.json",
         "language": "pt"
     },
     {
         "id": 3,
         "title": "TechPulse AI - Episode 2: Frontiers of Innovation",
         "description": "Six new stories pushing the boundaries of tech and science.",
-        "audio": "audio/episode-2-us.mp3",
+        "audio": "audio/episode-002-us.mp3",
         "releaseDate": "2025-03-09",
         "published": true,
-        "transcript": "transcripts/episode-2-us.json",
+        "transcript": "transcripts/episode-002-us.json",
         "language": "en"
     },
     {
         "id": 4,
         "title": "TechPulse AI - Episode 3: Beyond the Horizon",
         "description": "Six stories exploring the next frontier of tech and science.",
-        "audio": "audio/episode-3-us.mp3",
+        "audio": "audio/episode-003-us.mp3",
         "releaseDate": "2025-03-16",
         "published": true,
-        "transcript": "transcripts/episode-3-us.json",
+        "transcript": "transcripts/episode-003-us.json",
         "language": "en"
     },
     {
         "id": 5,
         "title": "TechPulse AI - Episode 4: Six Breakthroughs Reshaping Tech",
         "description": "Kokoro unpacks six cutting-edge tech innovations from March 2025.",
-        "audio": "audio/episode-4-us.mp3",
+        "audio": "audio/episode-004-us.mp3",
         "releaseDate": "2025-03-23",
         "published": true,
-        "transcript": "transcripts/episode-4-us.json",
+        "transcript": "transcripts/episode-004-us.json",
         "language": "en"
     },
     {
         "id": 6,
         "title": "TechPulse AI - Episode 5: Six New Tech Horizons",
         "description": "Kokoro explores six innovative tech advances from March 2025.",
-        "audio": "audio/episode-5-us.mp3",
+        "audio": "audio/episode-005-us.mp3",
         "releaseDate": "2025-03-29",
         "published": true,
-        "transcript": "transcripts/episode-5-us.json",
+        "transcript": "transcripts/episode-005-us.json",
+        "language": "en"
+    },
+    {
+        "id": 7,
+        "title": "TechPulse AI - Episode 6: A Reset and Apology",
+        "description": "\"TechPulse AI\" to address that all previous podcasts were imaginative rather than based on real events, including an apology.",
+        "audio": "audio/episode-006-us.mp3",
+        "releaseDate": "2025-04-06",
+        "published": true,
+        "transcript": "transcripts/episode-006-us.json",
         "language": "en"
     }
 ]
