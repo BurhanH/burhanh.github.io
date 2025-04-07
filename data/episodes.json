@@ -58,5 +58,15 @@
         "published": true,
         "transcript": "transcripts/episode-5-us.json",
         "language": "en"
+    },
+    {
+        "id": 7,
+        "title": "TechPulse AI - Episode 6: A Reset and Apology",
+        "description": "\"TechPulse AI\" to address that all previous podcasts were imaginative rather than based on real events, including an apology.",
+        "audio": "audio/episode-6-us.mp3",
+        "releaseDate": "2025-04-06",
+        "published": true,
+        "transcript": "transcripts/episode-6-us.json",
+        "language": "en"
     }
 ]
