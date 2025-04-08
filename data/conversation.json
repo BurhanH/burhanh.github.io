@@ -248,5 +248,15 @@
         "published": true,
         "transcript": "transcripts/conversation-025-us.json",
         "language": "en"
+    },
+    {
+        "id": 26,
+        "title": "TechPulse AI - Conversation 26: Bondar Academy: Learn Test Automation From Scratch",
+        "description": "Bondar Academy offers a structured online program for quality engineers to learn test automation from scratch.",
+        "audio": "audio/conversation-026-us.mp3",
+        "releaseDate": "2025-04-08",
+        "published": true,
+        "transcript": "transcripts/conversation-026-us.json",
+        "language": "en"
     }
 ]
