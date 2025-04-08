@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "title": "TechPulse AI - Conversation 1: Introduction to NotebookLM",
+        "title": "SynthMech AI - Conversation 1: Introduction to NotebookLM",
         "description": "Two AI hosts talking about Google NotebookLM.",
         "audio": "audio/conversation-001-us.mp3",
         "releaseDate": "2025-03-16",
@@ -11,7 +11,7 @@
     },
     {
         "id": 2,
-        "title": "TechPulse AI - Conversation 2: Cypress and Playwright Comparison: Web Element Finding",
+        "title": "SynthMech AI - Conversation 2: Cypress and Playwright Comparison: Web Element Finding",
         "description": "Two AI hosts talking about Cypress and Playwright: what is the best tool for your needs?",
         "audio": "audio/conversation-002-us.mp3",
         "releaseDate": "2025-03-17",
@@ -21,7 +21,7 @@
     },
     {
         "id": 3,
-        "title": "TechPulse AI - Conversation 3: Exploring the Rapid Software Testing Framework",
+        "title": "SynthMech AI - Conversation 3: Exploring the Rapid Software Testing Framework",
         "description": "Two AI hosts dive into the Rapid Software Testing framework from DevelopSense.",
         "audio": "audio/conversation-003-us.mp3",
         "releaseDate": "2025-03-18",
@@ -31,7 +31,7 @@
     },
     {
         "id": 4,
-        "title": "TechPulse AI - Conversation 4: Software Development and Continuous Delivery",
+        "title": "SynthMech AI - Conversation 4: Software Development and Continuous Delivery",
         "description": "Two AI hosts explore Software Development and Continuous Delivery.",
         "audio": "audio/conversation-004-us.mp3",
         "releaseDate": "2025-03-19",
@@ -41,7 +41,7 @@
     },
     {
         "id": 5,
-        "title": "TechPulse AI - Conversation 5: Unpacking Agentic AI with Pascal Bornet’s Book",
+        "title": "SynthMech AI - Conversation 5: Unpacking Agentic AI with Pascal Bornet’s Book",
         "description": "AI hosts explore AI agents and their business impact from Agentic Artificial Intelligence.",
         "audio": "audio/conversation-005-us.mp3",
         "releaseDate": "2025-03-19",
@@ -51,7 +51,7 @@
     },
     {
         "id": 6,
-        "title": "TechPulse AI - Conversation 6: Dwarkesh Patel on AI's Potential and Future Challenges",
+        "title": "SynthMech AI - Conversation 6: Dwarkesh Patel on AI's Potential and Future Challenges",
         "description": "AI hosts discuss a wide-ranging conversation with Dwarkesh Patel, hosted by Logan Kilpatrick.",
         "audio": "audio/conversation-006-us.mp3",
         "releaseDate": "2025-03-19",
@@ -61,7 +61,7 @@
     },
     {
         "id": 7,
-        "title": "TechPulse AI - Conversation 7: The Economic Value of Open Source Software",
+        "title": "SynthMech AI - Conversation 7: The Economic Value of Open Source Software",
         "description": "Two AI hosts explore The Value of Open Source Software.",
         "audio": "audio/conversation-007-us.mp3",
         "releaseDate": "2025-03-19",
@@ -71,7 +71,7 @@
     },
     {
         "id": 8,
-        "title": "TechPulse AI - Conversation 8: Digital Hygiene: Basic Security Tips",
+        "title": "SynthMech AI - Conversation 8: Digital Hygiene: Basic Security Tips",
         "description": "AI hosts inform you about \"Digital hygiene\" by Karpathy.",
         "audio": "audio/conversation-008-us.mp3",
         "releaseDate": "2025-03-19",
@@ -81,7 +81,7 @@
     },
     {
         "id": 9,
-        "title": "TechPulse AI - Conversation 9: tj-actions/changed-files GitHub Action Compromised",
+        "title": "SynthMech AI - Conversation 9: tj-actions/changed-files GitHub Action Compromised",
         "description": "Two AI hosts discuss a critical security incident affecting the popular tj-actions/changed-files GitHub Action.",
         "audio": "audio/conversation-009-us.mp3",
         "releaseDate": "2025-03-20",
@@ -91,7 +91,7 @@
     },
     {
         "id": 10,
-        "title": "TechPulse AI - Conversation 10: NotebookLM: Research Workflows",
+        "title": "SynthMech AI - Conversation 10: NotebookLM: Research Workflows",
         "description": "NotebookLM, a Google AI tool designed to enhance research and content creation by analyzing uploaded documents like PDFs, text files, Google Drive items, website links, and YouTube videos.",
         "audio": "audio/conversation-010-us.mp3",
         "releaseDate": "2025-03-20",
@@ -101,7 +101,7 @@
     },
     {
         "id": 11,
-        "title": "TechPulse AI - Conversation 11: GitHub's AI Vision: From Code Completion to Intelligent Agents",
+        "title": "SynthMech AI - Conversation 11: GitHub's AI Vision: From Code Completion to Intelligent Agents",
         "description": "AI hosts discuss a conversation with GitHub CEO Thomas Dohmke, exploring GitHub's advancements in AI-powered developer tools, particularly Copilot and its evolving capabilities.",
         "audio": "audio/conversation-011-us.mp3",
         "releaseDate": "2025-03-22",
@@ -111,7 +111,7 @@
     },
     {
         "id": 12,
-        "title": "TechPulse AI - Conversation 12: Evaluating AI Cyberattack Capabilities",
+        "title": "SynthMech AI - Conversation 12: Evaluating AI Cyberattack Capabilities",
         "description": "This paper from Google DeepMind introduces a novel framework for evaluating how emerging AI capabilities could enhance cyberattacks.",
         "audio": "audio/conversation-012-us.mp3",
         "releaseDate": "2025-03-22",
@@ -121,7 +121,7 @@
     },
     {
         "id": 13,
-        "title": "TechPulse AI - Conversation 13: Juliet Schor: The Case for a 4-Day Work Week",
+        "title": "SynthMech AI - Conversation 13: Juliet Schor: The Case for a 4-Day Work Week",
         "description": "Economist Juliet Schor argues for a widespread adoption of a four-day work week.",
         "audio": "audio/conversation-013-us.mp3",
         "releaseDate": "2025-03-22",
@@ -131,7 +131,7 @@
     },
     {
         "id": 14,
-        "title": "TechPulse AI - Conversation 14: Brain Mapping of Natural Language with a Unified Acoustic-to-Language Model",
+        "title": "SynthMech AI - Conversation 14: Brain Mapping of Natural Language with a Unified Acoustic-to-Language Model",
         "description": "This research introduces a unified computational model that bridges acoustic input, spoken language, and linguistic meaning to understand the neural processing of everyday conversations.",
         "audio": "audio/conversation-014-us.mp3",
         "releaseDate": "2025-03-23",
@@ -141,7 +141,7 @@
     },
     {
         "id": 15,
-        "title": "TechPulse AI - Conversation 15: Mathematics of Machine Learning: Binary Classification and Beyond",
+        "title": "SynthMech AI - Conversation 15: Mathematics of Machine Learning: Binary Classification and Beyond",
         "description": "These lecture notes from an MIT course on the Mathematics of Machine Learning explore the theoretical underpinnings of various machine learning techniques.",
         "audio": "audio/conversation-015-us.mp3",
         "releaseDate": "2025-03-23",
@@ -151,7 +151,7 @@
     },
     {
         "id": 16,
-        "title": "TechPulse AI - Conversation 16: Information Theory: Entropy, Divergence, and Mutual Information",
+        "title": "SynthMech AI - Conversation 16: Information Theory: Entropy, Divergence, and Mutual Information",
         "description": "This Oxford Mathematics lecture introduces information theory, focusing on the mathematical understanding of communication.",
         "audio": "audio/conversation-016-us.mp3",
         "releaseDate": "2025-03-23",
@@ -161,7 +161,7 @@
     },
     {
         "id": 17,
-        "title": "TechPulse AI - Conversation 17: Model Context Protocol (MCP): Explained",
+        "title": "SynthMech AI - Conversation 17: Model Context Protocol (MCP): Explained",
         "description": "AI hosts introduce the Model Context Protocol (MCP), a new standard designed to streamline the integration of Large Language Models (LLMs) with external tools.",
         "audio": "audio/conversation-017-us.mp3",
         "releaseDate": "2025-03-25",
@@ -171,7 +171,7 @@
     },
     {
         "id": 18,
-        "title": "TechPulse AI - Conversation 18: Retracted Cancer Imaging Articles: Citation and AI Usage",
+        "title": "SynthMech AI - Conversation 18: Retracted Cancer Imaging Articles: Citation and AI Usage",
         "description": "A forthcoming publication in the Journal of Advanced Research raises concern about the persistent citation of retracted cancer imaging articles.",
         "audio": "audio/conversation-018-us.mp3",
         "releaseDate": "2025-03-27",
@@ -181,7 +181,7 @@
     },
     {
         "id": 19,
-        "title": "TechPulse AI - Conversation 19: Cursor AI Rules: Project and Global Configuration",
+        "title": "SynthMech AI - Conversation 19: Cursor AI Rules: Project and Global Configuration",
         "description": "Cursor's \"Rules for AI\" documentation explains how users can customize the behavior of the AI within the Cursor code editor.",
         "audio": "audio/conversation-019-us.mp3",
         "releaseDate": "2025-04-01",
@@ -191,7 +191,7 @@
     },
     {
         "id": 20,
-        "title": "TechPulse AI - Conversation 20: Problems in Elementary Mathematics",
+        "title": "SynthMech AI - Conversation 20: Problems in Elementary Mathematics",
         "description": "The provided discussion consists of excerpts from problem books in mathematics and physics, likely intended for advanced secondary school students or those preparing for university entrance exams.",
         "audio": "audio/conversation-020-us.mp3",
         "releaseDate": "2025-04-01",
@@ -201,7 +201,7 @@
     },
     {
         "id": 21,
-        "title": "TechPulse AI - Conversation 21: Claude for Education: AI in Higher Learning",
+        "title": "SynthMech AI - Conversation 21: Claude for Education: AI in Higher Learning",
         "description": "Anthropic has introduced Claude for Education, a specialized AI tailored for higher education.",
         "audio": "audio/conversation-021-us.mp3",
         "releaseDate": "2025-04-02",
@@ -211,7 +211,7 @@
     },
     {
         "id": 22,
-        "title": "TechPulse AI - Conversation 22: C# SDK for Model Context Protocol Announced",
+        "title": "SynthMech AI - Conversation 22: C# SDK for Model Context Protocol Announced",
         "description": "Microsoft has partnered with Anthropic to develop an official C# SDK for the Model Context Protocol (MCP), an open standard facilitating integration between LLM applications and external resources.",
         "audio": "audio/conversation-022-us.mp3",
         "releaseDate": "2025-04-02",
@@ -221,7 +221,7 @@
     },
     {
         "id": 23,
-        "title": "TechPulse AI - Conversation 23: OpenAI Academy: AI Education and Community",
+        "title": "SynthMech AI - Conversation 23: OpenAI Academy: AI Education and Community",
         "description": "OpenAI Academy is an initiative aimed at educating individuals on artificial intelligence, ranging from foundational concepts to advanced applications.",
         "audio": "audio/conversation-023-us.mp3",
         "releaseDate": "2025-04-02",
@@ -231,7 +231,7 @@
     },
     {
         "id": 24,
-        "title": "TechPulse AI - Conversation 24: Computer Problem Solving: Principles and Operation (1976)",
+        "title": "SynthMech AI - Conversation 24: Computer Problem Solving: Principles and Operation (1976)",
         "description": "This 1976 YouTube video transcript from Alexandr Zudin's channel explains the role of electronic computing machines (EVMs) in the Soviet Union.",
         "audio": "audio/conversation-024-us.mp3",
         "releaseDate": "2025-04-06",
@@ -241,7 +241,7 @@
     },
     {
         "id": 25,
-        "title": "TechPulse AI - Conversation 25: Roo Code: AI-Powered Autonomous Coding Agent",
+        "title": "SynthMech AI - Conversation 25: Roo Code: AI-Powered Autonomous Coding Agent",
         "description": "Roo Code is an AI-powered coding assistant designed to integrate directly into a user's code editor.",
         "audio": "audio/conversation-025-us.mp3",
         "releaseDate": "2025-04-07",
@@ -251,7 +251,7 @@
     },
     {
         "id": 26,
-        "title": "TechPulse AI - Conversation 26: Bondar Academy: Learn Test Automation From Scratch",
+        "title": "SynthMech AI - Conversation 26: Bondar Academy: Learn Test Automation From Scratch",
         "description": "Bondar Academy offers a structured online program for quality engineers to learn test automation from scratch.",
         "audio": "audio/conversation-026-us.mp3",
         "releaseDate": "2025-04-08",
