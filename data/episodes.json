@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "title": "TechPulse AI - Episode 1: The AI Revolution Unveiled",
+        "title": "SynthMech AI - Episode 1: The AI Revolution Unveiled",
         "description": "Six cutting-edge stories in tech and science, narrated by AI.",
         "audio": "./audio/episode-001-us.mp3",
         "releaseDate": "2025-03-02",
@@ -11,7 +11,7 @@
     },
     {
         "id": 2,
-        "title": "TechPulse AI - Episódio 1: A Revolução da IA Revelada",
+        "title": "SynthMech AI - Episódio 1: A Revolução da IA Revelada",
         "description": "Seis histórias de ponta em tecnologia e ciência, narradas por IA.",
         "audio": "audio/episode-001-pt.mp3",
         "releaseDate": "2025-03-04",
@@ -21,7 +21,7 @@
     },
     {
         "id": 3,
-        "title": "TechPulse AI - Episode 2: Frontiers of Innovation",
+        "title": "SynthMech AI - Episode 2: Frontiers of Innovation",
         "description": "Six new stories pushing the boundaries of tech and science.",
         "audio": "audio/episode-002-us.mp3",
         "releaseDate": "2025-03-09",
@@ -31,7 +31,7 @@
     },
     {
         "id": 4,
-        "title": "TechPulse AI - Episode 3: Beyond the Horizon",
+        "title": "SynthMech AI - Episode 3: Beyond the Horizon",
         "description": "Six stories exploring the next frontier of tech and science.",
         "audio": "audio/episode-003-us.mp3",
         "releaseDate": "2025-03-16",
@@ -41,7 +41,7 @@
     },
     {
         "id": 5,
-        "title": "TechPulse AI - Episode 4: Six Breakthroughs Reshaping Tech",
+        "title": "SynthMech AI - Episode 4: Six Breakthroughs Reshaping Tech",
         "description": "Kokoro unpacks six cutting-edge tech innovations from March 2025.",
         "audio": "audio/episode-004-us.mp3",
         "releaseDate": "2025-03-23",
@@ -51,7 +51,7 @@
     },
     {
         "id": 6,
-        "title": "TechPulse AI - Episode 5: Six New Tech Horizons",
+        "title": "SynthMech AI - Episode 5: Six New Tech Horizons",
         "description": "Kokoro explores six innovative tech advances from March 2025.",
         "audio": "audio/episode-005-us.mp3",
         "releaseDate": "2025-03-29",
@@ -61,8 +61,8 @@
     },
     {
         "id": 7,
-        "title": "TechPulse AI - Episode 6: A Reset and Apology",
-        "description": "\"TechPulse AI\" to address that all previous podcasts were imaginative rather than based on real events, including an apology.",
+        "title": "SynthMech AI - Episode 6: A Reset and Apology",
+        "description": "\"SynthMech AI\" to address that all previous podcasts were imaginative rather than based on real events, including an apology.",
         "audio": "audio/episode-006-us.mp3",
         "releaseDate": "2025-04-06",
         "published": true,
@@ -71,7 +71,7 @@
     },
     {
         "id": 8,
-        "title": "TechPulse AI - Episode 7: Ten Real Tech Stories from Last Week",
+        "title": "SynthMech AI - Episode 7: Ten Real Tech Stories from Last Week",
         "description": "Kokoro presents ten real tech stories from last week—March 31 to April 5.",
         "audio": "audio/episode-007-us.mp3",
         "releaseDate": "2025-04-06",
