@@ -1,38 +1,127 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AI Podcast Hub</title>
-    <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Baur Urazalinov - Portfolio</title>
+  <meta name="description" content="Baur Urazalinov, Software Quality Engineer specializing in test automation and validation frameworks">
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; line-height: 1.6; }
+    header { background: #1a252f; color: white; text-align: center; padding: 2em; }
+    nav a { color: white; margin: 0 1em; text-decoration: none; }
+    nav a:hover { text-decoration: underline; }
+    .hero { text-align: center; padding: 3em; background: #f5f6f5; }
+    .hero h2 { font-size: 2.2em; margin: 0; color: #2c3e50; }
+    .hero p { font-size: 1.1em; color: #34495e; }
+    .projects { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 15px; padding: 2em; background: #fff; }
+    .project-card { border: 1px solid #e0e0e0; padding: 1em; text-align: center; background: #fafafa; border-radius: 6px; }
+    .project-card img { max-width: 100%; border-radius: 4px; }
+    .project-card p { margin: 0.5em 0; }
+    .about { padding: 2em; text-align: center; background: #fff; }
+    .skills { display: flex; flex-wrap: wrap; justify-content: center; gap: 0.8em; margin-top: 1em; }
+    .skills span { background: #2c3e50; color: white; padding: 0.4em 0.8em; border-radius: 4px; font-size: 0.9em; }
+    .certifications { padding: 2em; text-align: center; background: #f5f6f5; }
+    .certifications ul { list-style: none; padding: 0; max-width: 600px; margin: 0 auto; }
+    .certifications li { margin: 0.5em 0; font-size: 1em; }
+    .contact { text-align: center; padding: 2em; background: #1a252f; color: white; }
+    .contact a { color: #66b3ff; text-decoration: none; }
+    .contact a:hover { text-decoration: underline; }
+    footer { text-align: center; padding: 1em; background: #34495e; color: white; font-size: 0.9em; }
+  </style>
 </head>
 <body>
-    <button id="theme-toggle" aria-label="Toggle theme"><i class="fas fa-lightbulb"></i></button>
-    <header>
-        <h1>AI-Generated Podcasts</h1>
-        <nav>
-            <a href="index.html">Home</a> | 
-            <a href="episodes.html">Episode Archive</a> |
-            <a href="conversation.html">Conversation Episodes</a> |
-            <a href="music.html">Music</a> | 
-            <a href="about.html">About</a>
-        </nav>
-        <p>Welcome to my collection of synthetic audio stories and AI music!</p>
-    </header>
-    <main>
-        <section id="player">
-            <h2 id="current-title">Select a track to play</h2>
-            <audio id="audio-player" controls>
-                <source id="audio-source" src="" type="audio/mpeg">
-                Your browser doesn’t support audio.
-            </audio>
-        </section>
-        <div id="episode-list"></div>
-    </main>
-    <footer>
-        <p>&copy; 2025 SynthMechAI</p>
-    </footer>
-    <script src="js/script.js"></script>
+  <header>
+    <h1>Baur Urazalinov</h1>
+    <nav>
+      <a href="#about">About</a> |
+      <a href="#projects">Projects</a> |
+      <a href="#certifications">Certifications</a> |
+      <a href="#contact">Contact</a> |
+      <a href="home.html">Podcast Hub</a>
+    </nav>
+  </header>
+  <section class="hero">
+    <h2>Software Engineer | Software Quality Engineer</h2>
+    <p>Ensuring software excellence through automation and innovation.</p>
+  </section>
+  <section class="projects" id="projects">
+    <div class="project-card">
+      <h3>PDF Generation Validation</h3>
+      <p>Developed frameworks at CVS Health to validate PDF generation and delivery, enabling rapid feature validation and fearless deployments.</p>
+      <p><strong>Tools:</strong> Rider, Docker, Kafka, PostgreSQL, Azure</p>
+    </div>
+    <div class="project-card">
+      <h3>Test Automation Framework</h3>
+      <p>Built a C#/.NET framework at SignifyHealth for microservices processing 1M+ daily events, validating integrations with APIs, Kafka, and databases.</p>
+      <p><strong>Tools:</strong> C#, .NET, xUnit, Kafka, PostgreSQL, Azure DevOps</p>
+    </div>
+    <div class="project-card">
+      <h3>Cypress UI Test Optimization</h3>
+      <p>Reduced UI test suite execution at SignifyHealth from 90 to 10 minutes by implementing parallel Cypress tests with cloud infrastructure.</p>
+      <p><strong>Tools:</strong> Cypress, Azure DevOps, Bash</p>
+    </div>
+    <div class="project-card">
+      <h3>Test Data Generation Tool</h3>
+      <p>Designed a tool at CVS Health to generate clinically accurate test data, streamlining validation of critical healthcare data flows.</p>
+      <p><strong>Tools:</strong> Python, PostgreSQL, Docker</p>
+    </div>
+    <div class="project-card">
+      <h3>CPQ Validation Automation</h3>
+      <p>Developed automation for Rackspace’s CPQ system using BDD and finite state machines, enhancing post-deployment verification.</p>
+      <p><strong>Tools:</strong> Python, Selenium, Docker, Jenkins, Git</p>
+    </div>
+    <div class="project-card">
+      <h3>E-Commerce Automated Testing</h3>
+      <p>Automated testing for Connected IO’s website, validating functionality across browsers and Android devices.</p>
+      <p><strong>Tools:</strong> Python, Selenium, Appium, TestRail</p>
+    </div>
+  </section>
+  <section class="about" id="about">
+    <h2>About Me</h2>
+    <p>For over ten years, I’ve developed validation frameworks for business-critical systems at CVS Health, SignifyHealth, IBM, Rackspace, etc., enhancing software quality through test automation, containerization, and best practices. I’m a dependable self-starter who thrives on solving complex challenges, mentoring QA engineers, and exploring AI-assisted development to deliver high-value features.</p>
+    <div class="skills">
+      <span>C#</span>
+      <span>.NET</span>
+      <span>Python</span>
+      <span>Docker</span>
+      <span>Kafka</span>
+      <span>PostgreSQL</span>
+      <span>SQL</span>
+      <span>Azure</span>
+      <span>Azure DevOps</span>
+      <span>REST API</span>
+      <span>Cypress</span>
+      <span>JavaScript</span>
+      <span>xUnit</span>
+      <span>MSTest</span>
+      <span>Git</span>
+      <span>JIRA</span>
+      <span>Agile</span>
+      <span>Test Automation</span>
+      <span>Mentoring</span>
+    </div>
+  </section>
+  <section class="certifications" id="certifications">
+    <h2>Certifications</h2>
+    <ul>
+        <li>Foundational C# with Microsoft, FreeCodeCamp (2024) <a href="https://www.freecodecamp.org/certification/fccdf1909a2-5b24-4b09-bf18-c1c39be6a577/foundational-c-sharp-with-microsoft">View Certificate</a></li>
+        <li>Microservices Architecture - The Complete Guide, Udemy (2023)</li>
+        <li>CS50's Web Programming with Python and JavaScript, Harvard University Online (2020) <a href="https://certificates.cs50.io/0bd3ef94-8bcf-4fcf-ac1a-370d8bedc4d7.pdf?size=letter">View Certificate</a></li>
+        <li>Unit Testing in Angular, Pluralsight (2020)</li>
+        <li>Python for Data Structures, Algorithms, Udemy (2020) <a href="https://www.udemy.com/certificate/UC-4e9d3126-2da4-4a32-8c40-0723bae762b0/">View Certificate</a></li>
+        <li>Python and Django Full Stack Web Developer Bootcamp, Udemy (2019) <a href="https://www.udemy.com/certificate/UC-P0IDWV1F/">View Certificate</a></li>
+      </ul>
+  </section>
+  <section class="contact" id="contact">
+    <h2>Ready to Enhance Your Team’s Quality Processes</h2>
+    <p>
+      <a href="mailto:burazalinov@gmail.com">burazalinov@gmail.com</a> |
+      <a href="http://linkedin.com/in/burazalinov">LinkedIn</a> |
+      <a href="http://github.com/BurhanH">GitHub</a>
+    </p>
+  </section>
+  <footer>
+    <p>© 2025 Baur Urazalinov</p>
+  </footer>
 </body>
 </html>
