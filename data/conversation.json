@@ -298,5 +298,15 @@
         "published": true,
         "transcript": "transcripts/conversation-030-us.json",
         "language": "en"
+    },
+    {
+        "id": 31,
+        "title": "SynthMech AI - Conversation 31: Gen AI Use Cases in Leading Organizations",
+        "description": "This Google Cloud blog post, updated in April 2025, showcases over 600 real-world applications of generative AI across diverse industries, a sixfold increase from the previous year.",
+        "audio": "audio/conversation-031-us.mp3",
+        "releaseDate": "2025-04-15",
+        "published": true,
+        "transcript": "transcripts/conversation-031-us.json",
+        "language": "en"
     }
 ]
