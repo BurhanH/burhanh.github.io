@@ -278,5 +278,35 @@
         "published": true,
         "transcript": "transcripts/conversation-028-us.json",
         "language": "en"
+    },
+    {
+        "id": 29,
+        "title": "SynthMech AI - Conversation 29: The Era of Experience: Beyond Human Data in AI",
+        "description": "AI hosts explore the future direction of artificial intelligence, contrasting the current era reliant on human data with a proposed \"era of experience\" where AI learns through its own interactions.",
+        "audio": "audio/conversation-029-us.mp3",
+        "releaseDate": "2025-04-15",
+        "published": true,
+        "transcript": "transcripts/conversation-029-us.json",
+        "language": "en"
+    },
+    {
+        "id": 30,
+        "title": "SynthMech AI - Conversation 30: DolphinGemma: AI Deciphers Dolphin Communication",
+        "description": "Google AI has developed DolphinGemma, an AI model aimed at deciphering dolphin communication.",
+        "audio": "audio/conversation-030-us.mp3",
+        "releaseDate": "2025-04-15",
+        "published": true,
+        "transcript": "transcripts/conversation-030-us.json",
+        "language": "en"
+    },
+    {
+        "id": 31,
+        "title": "SynthMech AI - Conversation 31: Gen AI Use Cases in Leading Organizations",
+        "description": "This Google Cloud blog post, updated in April 2025, showcases over 600 real-world applications of generative AI across diverse industries, a sixfold increase from the previous year.",
+        "audio": "audio/conversation-031-us.mp3",
+        "releaseDate": "2025-04-15",
+        "published": true,
+        "transcript": "transcripts/conversation-031-us.json",
+        "language": "en"
     }
 ]
