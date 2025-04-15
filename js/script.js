@@ -68,6 +68,7 @@ document.addEventListener("DOMContentLoaded", () => {
                             const langIcon = episode.language === "pt" ? "<i class=\"fas fa-globe-americas\" title=\"Portuguese\"></i>" : "<i class=\"fas fa-globe-europe\" title=\"English\"></i>";
                             section.innerHTML = `
                                 <h2>${episode.title} <span class="lang-icon">${langIcon}</span></h2>
+                                <p>${episode.releaseDate}</p>
                                 <p>${episode.description}</p>
                                 <button class="transcript-toggle">Show Transcript</button>
                                 <div class="transcript" style="display: none;"></div>
@@ -128,6 +129,7 @@ document.addEventListener("DOMContentLoaded", () => {
                     const langIcon = episode.language === "pt" ? "<i class=\"fas fa-globe-americas\" title=\"Portuguese\"></i>" : "<i class=\"fas fa-globe-europe\" title=\"English\"></i>";
                     section.innerHTML = `
                         <h2>${episode.title} <span class="lang-icon">${langIcon}</span></h2>
+                        <p>${episode.releaseDate}</p>
                         <p>${episode.description}</p>
                         <button class="transcript-toggle">Show Transcript</button>
                         <div class="transcript" style="display: none;"></div>
