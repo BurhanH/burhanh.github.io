@@ -288,5 +288,15 @@
         "published": true,
         "transcript": "transcripts/conversation-029-us.json",
         "language": "en"
+    },
+    {
+        "id": 30,
+        "title": "SynthMech AI - Conversation 30: DolphinGemma: AI Deciphers Dolphin Communication",
+        "description": "Google AI has developed DolphinGemma, an AI model aimed at deciphering dolphin communication.",
+        "audio": "audio/conversation-030-us.mp3",
+        "releaseDate": "2025-04-15",
+        "published": true,
+        "transcript": "transcripts/conversation-030-us.json",
+        "language": "en"
     }
 ]
