@@ -308,5 +308,15 @@
         "published": true,
         "transcript": "transcripts/conversation-031-us.json",
         "language": "en"
+    },
+    {
+        "id": 32,
+        "title": "SynthMech AI - Conversation 32: Описание возможностей NotebookLM",
+        "description": "Два ИИ-ведущих говорят о Google NotebookLM, объясняя его ключевые функции.",
+        "audio": "audio/conversation-032-ru.mp3",
+        "releaseDate": "2025-04-30",
+        "published": true,
+        "transcript": "transcripts/conversation-032-ru.json",
+        "language": "ru"
     }
 ]
