@@ -151,5 +151,95 @@
         "artwork": "./images/BeyondTheBlue.jpeg",
         "releaseDate": "2025-03-25",
         "published": true
+    },
+    {
+        "id": 18,
+        "title": "Track 18: Geometry Dash level Untitled 1",
+        "description": "suno.ai, GeometryDash, EDM, gaming",
+        "audio": "./music/GeometryDashlevelUntitled_1.mp3",
+        "artwork": "./images/GeometryDashlevelUntitled_1.jpeg",
+        "releaseDate": "2025-04-30",
+        "published": true
+    },
+    {
+        "id": 19,
+        "title": "Track 19: Geometry Dash level Untitled 2",
+        "description": "suno.ai, GeometryDash, EDM, gaming",
+        "audio": "./music/GeometryDashlevelUntitled_2.mp3",
+        "artwork": "./images/GeometryDashlevelUntitled_2.jpeg",
+        "releaseDate": "2025-04-30",
+        "published": true
+    },
+    {
+        "id": 20,
+        "title": "Track 20: Geometry Dash level Untitled 3",
+        "description": "suno.ai, GeometryDash, EDM, gaming",
+        "audio": "./music/GeometryDashlevelUntitled_3.mp3",
+        "artwork": "./images/GeometryDashlevelUntitled_3.jpeg",
+        "releaseDate": "2025-04-30",
+        "published": true
+    },
+    {
+        "id": 21,
+        "title": "Track 21: Geometry Dash level Untitled 4",
+        "description": "suno.ai, GeometryDash, EDM, gaming",
+        "audio": "./music/GeometryDashlevelUntitled_4.mp3",
+        "artwork": "./images/GeometryDashlevelUntitled_4.jpeg",
+        "releaseDate": "2025-04-30",
+        "published": true
+    },
+    {
+        "id": 22,
+        "title": "Track 22: Geometry Dash level Untitled 5",
+        "description": "suno.ai, GeometryDash, EDM, gaming",
+        "audio": "./music/GeometryDashlevelUntitled_5.mp3",
+        "artwork": "./images/GeometryDashlevelUntitled_5.jpeg",
+        "releaseDate": "2025-04-30",
+        "published": true
+    },
+    {
+        "id": 23,
+        "title": "Track 23: Geometry Dash level Untitled 6",
+        "description": "suno.ai, GeometryDash, EDM, gaming",
+        "audio": "./music/GeometryDashlevelUntitled_6.mp3",
+        "artwork": "./images/GeometryDashlevelUntitled_6.jpeg",
+        "releaseDate": "2025-04-30",
+        "published": true
+    },
+    {
+        "id": 24,
+        "title": "Track 24: Geometry Dash level Untitled 7",
+        "description": "suno.ai, GeometryDash, EDM, gaming",
+        "audio": "./music/GeometryDashlevelUntitled_7.mp3",
+        "artwork": "./images/GeometryDashlevelUntitled_7.jpeg",
+        "releaseDate": "2025-04-30",
+        "published": true
+    },
+    {
+        "id": 25,
+        "title": "Track 25: Geometry Dash level Untitled 8",
+        "description": "suno.ai, GeometryDash, EDM, gaming",
+        "audio": "./music/GeometryDashlevelUntitled_8.mp3",
+        "artwork": "./images/GeometryDashlevelUntitled_8.jpeg",
+        "releaseDate": "2025-04-30",
+        "published": true
+    },
+    {
+        "id": 26,
+        "title": "Track 26: Geometry Dash level Untitled 9",
+        "description": "suno.ai, GeometryDash, EDM, gaming",
+        "audio": "./music/GeometryDashlevelUntitled_9.mp3",
+        "artwork": "./images/GeometryDashlevelUntitled_9.jpeg",
+        "releaseDate": "2025-04-30",
+        "published": true
+    },
+    {
+        "id": 27,
+        "title": "Track 27: Geometry Dash level Untitled 10",
+        "description": "suno.ai, GeometryDash, EDM, gaming",
+        "audio": "./music/GeometryDashlevelUntitled_10.mp3",
+        "artwork": "./images/GeometryDashlevelUntitled_10.jpeg",
+        "releaseDate": "2025-04-30",
+        "published": true
     }
 ]
