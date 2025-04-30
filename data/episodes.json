@@ -78,5 +78,15 @@
         "published": true,
         "transcript": "transcripts/episode-007-us.json",
         "language": "en"
+    },
+    {
+        "id": 9,
+        "title": "SynthMech AI - Episode 8: Fifteen Real Tech Stories from April 2025",
+        "description": "Kokoro presents fifteen real tech stories from April 2025.",
+        "audio": "audio/episode-008-us.mp3",
+        "releaseDate": "2025-04-30",
+        "published": true,
+        "transcript": "transcripts/episode-008-us.json",
+        "language": "en"
     }
 ]
