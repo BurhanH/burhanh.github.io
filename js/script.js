@@ -67,7 +67,8 @@ document.addEventListener("DOMContentLoaded", () => {
                             section.setAttribute("data-title", episode.title);
                             const langIcon = episode.language === "pt" ? "<i class=\"fas fa-globe-americas\" title=\"Portuguese\"></i>" :
                                              episode.language === "ru" ? "<i class=\"fas fa-globe-asia\" title=\"Russian\"></i>" :
-                                                                         "<i class=\"fas fa-globe-europe\" title=\"English\"></i>";
+                                             episode.language === "de" ? "<i class=\"fas fa-globe-europe\" title=\"German\"></i>" :
+                                                                         "<i class=\"fas fa-globe-americas\" title=\"English\"></i>";
                             section.innerHTML = `
                                 <h2>${episode.title} <span class="lang-icon">${langIcon}</span></h2>
                                 <p>${episode.releaseDate}</p>
@@ -130,7 +131,8 @@ document.addEventListener("DOMContentLoaded", () => {
                     // Add language icon based on language field
                     const langIcon = episode.language === "pt" ? "<i class=\"fas fa-globe-americas\" title=\"Portuguese\"></i>" :
                                      episode.language === "ru" ? "<i class=\"fas fa-globe-asia\" title=\"Russian\"></i>" :
-                                                                 "<i class=\"fas fa-globe-europe\" title=\"English\"></i>";
+                                     episode.language === "de" ? "<i class=\"fas fa-globe-europe\" title=\"German\"></i>" :
+                                                                 "<i class=\"fas fa-globe-americas\" title=\"English\"></i>";
                     section.innerHTML = `
                         <h2>${episode.title} <span class="lang-icon">${langIcon}</span></h2>
                         <p>${episode.releaseDate}</p>
@@ -142,7 +144,7 @@ document.addEventListener("DOMContentLoaded", () => {
                         source.src = episode.audio;
                         title.textContent = episode.title;
                         player.load();
-                        player.play();
+                        player.play();1
                     });
 
                     // Load transcript

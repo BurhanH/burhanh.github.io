@@ -318,5 +318,15 @@
         "published": true,
         "transcript": "transcripts/conversation-032-ru.json",
         "language": "ru"
+    },
+    {
+        "id": 33,
+        "title": "SynthMech AI - Conversation 33: Anleitung für NotebookLM",
+        "description": "Zwei KI-Moderatoren sprechen über Google NotebookLM und erläutern seine wichtigsten Funktionen.",
+        "audio": "audio/conversation-033-de.mp3",
+        "releaseDate": "2025-04-30",
+        "published": true,
+        "transcript": "transcripts/conversation-033-de.json",
+        "language": "de"
     }
 ]
