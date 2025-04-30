@@ -328,5 +328,15 @@
         "published": true,
         "transcript": "transcripts/conversation-033-de.json",
         "language": "de"
+    },
+    {
+        "id": 34,
+        "title": "SynthMech AI - Conversation 34: Caractéristiques de NotebookLM",
+        "description": "Deux hôtes IA parlent de Google NotebookLM et expliquent les principales fonctionnalités.",
+        "audio": "audio/conversation-034-fr.mp3",
+        "releaseDate": "2025-04-30",
+        "published": true,
+        "transcript": "transcripts/conversation-034-fr.json",
+        "language": "fr"
     }
 ]
