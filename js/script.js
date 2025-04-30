@@ -68,6 +68,7 @@ document.addEventListener("DOMContentLoaded", () => {
                             const langIcon = episode.language === "pt" ? "<i class=\"fas fa-globe-americas\" title=\"Portuguese\"></i>" :
                                              episode.language === "ru" ? "<i class=\"fas fa-globe-asia\" title=\"Russian\"></i>" :
                                              episode.language === "de" ? "<i class=\"fas fa-globe-europe\" title=\"German\"></i>" :
+                                             episode.language === "fr" ? "<i class=\"fas fa-globe-europe\" title=\"French\"></i>" :
                                                                          "<i class=\"fas fa-globe-americas\" title=\"English\"></i>";
                             section.innerHTML = `
                                 <h2>${episode.title} <span class="lang-icon">${langIcon}</span></h2>
@@ -132,6 +133,7 @@ document.addEventListener("DOMContentLoaded", () => {
                     const langIcon = episode.language === "pt" ? "<i class=\"fas fa-globe-americas\" title=\"Portuguese\"></i>" :
                                      episode.language === "ru" ? "<i class=\"fas fa-globe-asia\" title=\"Russian\"></i>" :
                                      episode.language === "de" ? "<i class=\"fas fa-globe-europe\" title=\"German\"></i>" :
+                                     episode.language === "fr" ? "<i class=\"fas fa-globe-europe\" title=\"French\"></i>" :
                                                                  "<i class=\"fas fa-globe-americas\" title=\"English\"></i>";
                     section.innerHTML = `
                         <h2>${episode.title} <span class="lang-icon">${langIcon}</span></h2>
