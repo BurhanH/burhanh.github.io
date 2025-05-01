@@ -277,5 +277,32 @@
         "artwork": "./images/GeometryDashlevelUntitled_14.jpeg",
         "releaseDate": "2025-05-01",
         "published": true
+    },
+    {
+        "id": 32,
+        "title": "Track 32: Geometry Dash level Untitled 15 (Geometric Pulse)",
+        "description": "suno.ai, GeometryDash, drum&bass, gaming",
+        "audio": "./music/GeometryDashlevelUntitled_15.mp3",
+        "artwork": "./images/GeometryDashlevelUntitled_15.jpeg",
+        "releaseDate": "2025-05-01",
+        "published": true
+    },
+    {
+        "id": 33,
+        "title": "Track 33: Geometry Dash level Untitled 16 (Pulse of the Grid)",
+        "description": "suno.ai, GeometryDash, trance, gaming",
+        "audio": "./music/GeometryDashlevelUntitled_16.mp3",
+        "artwork": "./images/GeometryDashlevelUntitled_16.jpeg",
+        "releaseDate": "2025-05-01",
+        "published": true
+    },
+    {
+        "id": 34,
+        "title": "Track 34: Geometry Dash level Untitled 17 (Pulse of the Grid 2)",
+        "description": "suno.ai, GeometryDash, trance, gaming",
+        "audio": "./music/GeometryDashlevelUntitled_17.mp3",
+        "artwork": "./images/GeometryDashlevelUntitled_17.jpeg",
+        "releaseDate": "2025-05-01",
+        "published": true
     }
 ]
