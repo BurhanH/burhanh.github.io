@@ -21,15 +21,25 @@
 body {
     font-family: Arial, sans-serif;
     margin: 0;
-    padding: 20px;
+    padding: 0;
     background-color: var(--background-color);
     color: var(--text-color);
     transition: background-color 0.3s, color 0.3s;
 }
 
+#fixed-top {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background: var(--card-bg);
+    box-shadow: var(--card-shadow);
+    z-index: 1000;
+}
+
 header {
     text-align: center;
-    margin-bottom: 20px;
+    padding: 20px;
 }
 
 nav {
@@ -53,29 +63,38 @@ h1 {
 #player {
     background: var(--card-bg);
     padding: 15px;
-    margin-bottom: 20px;
-    border-radius: 5px;
-    box-shadow: var(--card-shadow);
     text-align: center;
+}
+
+#current-title {
+    margin: 0 0 10px;
+    font-size: 16px;
+    color: var(--text-color);
 }
 
 #audio-player {
     width: 100%;
+    max-width: 500px;
     margin-top: 10px;
 }
 
-.episode, .track {
+main {
+    margin-top: 300px; /* Adjust based on fixed-top height */
+    padding: 20px;
+}
+
+.episode, .conversation, .track {
     background: var(--card-bg);
     padding: 15px;
     margin-bottom: 15px;
     border-radius: 5px;
     box-shadow: var(--card-shadow);
     cursor: pointer;
-    overflow: hidden;
+   	overflow: hidden;
     transition: background 0.3s;
 }
 
-.episode:hover, .track:hover {
+.episode:hover, .conversation:hover, .track:hover {
     background: var(--hover-bg);
 }
 
@@ -123,7 +142,7 @@ footer {
 }
 
 #theme-toggle {
-    position: fixed;
+    position: absolute;
     top: 20px;
     right: 20px;
     padding: 10px;
@@ -141,19 +160,14 @@ footer {
     background: var(--hover-bg);
 }
 
-.lang-icon i:hover {
-    color: #007BFF; /* Light theme hover */
-}
-
 #theme-toggle i {
     transition: transform 0.3s;
 }
 
 #theme-toggle:hover i {
-    transform: rotate(20deg); /* Subtle spin on hover */
+    transform: rotate(20deg);
 }
 
-/* Add to existing style.css */
 .transcript-toggle {
     background: var(--card-bg);
     border: none;
@@ -197,6 +211,10 @@ footer {
     color: var(--text-color);
 }
 
+.lang-icon i:hover {
+    color: #007BFF;
+}
+
 [data-theme="dark"] .lang-icon i:hover {
-    color: #66B2FF; /* Dark theme hover */
+    color: #66B2FF;
 }
