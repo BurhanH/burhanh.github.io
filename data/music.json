@@ -244,7 +244,7 @@
     },
     {
         "id": 28,
-        "title": "Track 28: Geometry Dash level Untitled 11",
+        "title": "Track 28: Geometry Dash level Untitled 11 (Neon Surge)",
         "description": "suno.ai, GeometryDash, electro house, gaming",
         "audio": "./music/GeometryDashlevelUntitled_11.mp3",
         "artwork": "./images/GeometryDashlevelUntitled_11.jpeg",
@@ -253,10 +253,28 @@
     },
     {
         "id": 29,
-        "title": "Track 29: Geometry Dash level Untitled 12",
+        "title": "Track 29: Geometry Dash level Untitled 12 (Neon Surge 2)",
         "description": "suno.ai, GeometryDash, electro house, gaming",
         "audio": "./music/GeometryDashlevelUntitled_12.mp3",
         "artwork": "./images/GeometryDashlevelUntitled_12.jpeg",
+        "releaseDate": "2025-05-01",
+        "published": true
+    },
+    {
+        "id": 30,
+        "title": "Track 30: Geometry Dash level Untitled 13 (Neon Frenzy)",
+        "description": "suno.ai, GeometryDash, dubstep, gaming",
+        "audio": "./music/GeometryDashlevelUntitled_13.mp3",
+        "artwork": "./images/GeometryDashlevelUntitled_13.jpeg",
+        "releaseDate": "2025-05-01",
+        "published": true
+    },
+    {
+        "id": 31,
+        "title": "Track 31: Geometry Dash level Untitled 14 (Geometry Rush)",
+        "description": "suno.ai, GeometryDash, techno, gaming",
+        "audio": "./music/GeometryDashlevelUntitled_14.mp3",
+        "artwork": "./images/GeometryDashlevelUntitled_14.jpeg",
         "releaseDate": "2025-05-01",
         "published": true
     }
