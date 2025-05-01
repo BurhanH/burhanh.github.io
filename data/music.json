@@ -241,5 +241,23 @@
         "artwork": "./images/GeometryDashlevelUntitled_10.jpeg",
         "releaseDate": "2025-04-30",
         "published": true
+    },
+    {
+        "id": 28,
+        "title": "Track 28: Geometry Dash level Untitled 11",
+        "description": "suno.ai, GeometryDash, electro house, gaming",
+        "audio": "./music/GeometryDashlevelUntitled_11.mp3",
+        "artwork": "./images/GeometryDashlevelUntitled_11.jpeg",
+        "releaseDate": "2025-05-01",
+        "published": true
+    },
+    {
+        "id": 29,
+        "title": "Track 29: Geometry Dash level Untitled 12",
+        "description": "suno.ai, GeometryDash, electro house, gaming",
+        "audio": "./music/GeometryDashlevelUntitled_12.mp3",
+        "artwork": "./images/GeometryDashlevelUntitled_12.jpeg",
+        "releaseDate": "2025-05-01",
+        "published": true
     }
 ]
