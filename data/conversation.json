@@ -349,5 +349,15 @@
         "published": true,
         "transcript": "transcripts/conversation-035-pt.json",
         "language": "pt"
+    },
+    {
+        "id": 36,
+        "title": "SynthMech AI - Conversation 36: Benchmarking LLMs for Global Health Diseases",
+        "description": "AI hosts focusing on research from Google, describes the development of a new dataset and benchmarking method designed to evaluate the performance of large language models (LLMs) on tropical and infectious diseases (TRINDs).",
+        "audio": "audio/conversation-036-us.mp3",
+        "releaseDate": "2025-05-01",
+        "published": true,
+        "transcript": "transcripts/conversation-036-us.json",
+        "language": "en"
     }
 ]
