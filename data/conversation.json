@@ -338,5 +338,16 @@
         "published": true,
         "transcript": "transcripts/conversation-034-fr.json",
         "language": "fr"
+    },
+    {
+
+        "id": 35,
+        "title": "SynthMech AI - Conversation 35: Recursos do NotebookLM",
+        "description": "Dois apresentadores de IA falando sobre o Google NotebookLM.",
+        "audio": "audio/conversation-035-pt.mp3",
+        "releaseDate": "2025-05-01",
+        "published": true,
+        "transcript": "transcripts/conversation-035-pt.json",
+        "language": "pt"
     }
 ]
