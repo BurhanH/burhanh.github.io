@@ -359,5 +359,16 @@
         "published": true,
         "transcript": "transcripts/conversation-036-us.json",
         "language": "en"
+    },
+    {
+        
+        "id": 37,
+        "title": "SynthMech AI - Conversation 37: Formula E Mountain Recharge and Google Cloud",
+        "description": "A discussion on the collaborative project between Formula E and Google Cloud called \"Mountain Recharge.\"",
+        "audio": "audio/conversation-037-us.mp3",
+        "releaseDate": "2025-05-04",
+        "published": true,
+        "transcript": "transcripts/conversation-037-us.json",
+        "language": "en"
     }
 ]
