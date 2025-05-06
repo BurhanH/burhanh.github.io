@@ -340,7 +340,6 @@
         "language": "fr"
     },
     {
-
         "id": 35,
         "title": "SynthMech AI - Conversation 35: Recursos do NotebookLM",
         "description": "Dois apresentadores de IA falando sobre o Google NotebookLM.",
@@ -361,7 +360,6 @@
         "language": "en"
     },
     {
-        
         "id": 37,
         "title": "SynthMech AI - Conversation 37: Formula E Mountain Recharge and Google Cloud",
         "description": "A discussion on the collaborative project between Formula E and Google Cloud called \"Mountain Recharge.\"",
@@ -372,7 +370,6 @@
         "language": "en"
     },
     {
-        
         "id": 38,
         "title": "SynthMech AI - Conversation 38: Building a Landing Page with Copilot Agent Mode",
         "description": "How a developer successfully built a developer-focused landing page in under 30 minutes using GitHub Copilot agent mode and the Claude 3.5 Sonnet AI model.",
@@ -383,7 +380,6 @@
         "language": "en"
     },
     {
-        
         "id": 39,
         "title": "SynthMech AI - Conversation 39: The Pattern of Success",
         "description": "These excerpts from Malcolm Gladwell's Outliers: The Story of Success explore the idea that success is not solely a result of individual talent or hard work, but is significantly shaped by opportunity, cultural background, and timing.",
@@ -391,6 +387,36 @@
         "releaseDate": "2025-05-04",
         "published": true,
         "transcript": "transcripts/conversation-039-us.json",
+        "language": "en"
+    },
+    {
+        "id": 40,
+        "title": "SynthMech AI - Conversation 40: Competitive Programming for School Students",
+        "description": "An overview of competitive programming for schoolchildren, focusing on the Olympiad in Informatics and other related events.",
+        "audio": "audio/conversation-040-us.mp3",
+        "releaseDate": "2025-05-05",
+        "published": true,
+        "transcript": "transcripts/conversation-040-us.json",
+        "language": "en"
+    },
+    {
+        "id": 41,
+        "title": "SynthMech AI - Conversation 41: Cognitive Complexity and Personal Constructs",
+        "description": "AI hosts explore George Kelly's personal construct theory, which emphasizes how individuals use subjective criteria to perceive and evaluate the world and others, particularly in social interactions.",
+        "audio": "audio/conversation-041-us.mp3",
+        "releaseDate": "2025-05-05",
+        "published": true,
+        "transcript": "transcripts/conversation-041-us.json",
+        "language": "en"
+    },
+    {
+        "id": 42,
+        "title": "SynthMech AI - Conversation 42: GRASP: Architecture Beyond SOLID",
+        "description": "A mature architectural approach begins with understanding principles like those in GRASP, which inform why and what to model, rather than just how to code.",
+        "audio": "audio/conversation-042-us.mp3",
+        "releaseDate": "2025-05-05",
+        "published": true,
+        "transcript": "transcripts/conversation-042-us.json",
         "language": "en"
     }
 ]
