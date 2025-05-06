@@ -304,5 +304,95 @@
         "artwork": "./images/GeometryDashlevelUntitled_17.jpeg",
         "releaseDate": "2025-05-01",
         "published": true
+    },
+    {
+        "id": 35,
+        "title": "Track 35: Geometry Dash level Untitled 18 (Neon Dash)",
+        "description": "suno.ai, GeometryDash, gaming",
+        "audio": "./music/GeometryDashlevelUntitled_18.mp3",
+        "artwork": "./images/GeometryDashlevelUntitled_18.jpeg",
+        "releaseDate": "2025-05-05",
+        "published": true
+    },
+    {
+        "id": 36,
+        "title": "Track 36: Geometry Dash level Untitled 19 (Neon Dreams)",
+        "description": "suno.ai, GeometryDash, gaming",
+        "audio": "./music/GeometryDashlevelUntitled_19.mp3",
+        "artwork": "./images/GeometryDashlevelUntitled_19.jpeg",
+        "releaseDate": "2025-05-05",
+        "published": true
+    },
+    {
+        "id": 37,
+        "title": "Track 37: Dream Skyline",
+        "description": "suno.ai, vocal, vocaloid, high-pitched, dreamy, electronic, futuristic, pop, theme, traditional-modern fusion, j-pop",
+        "audio": "./music/DreamSkyline.mp3",
+        "artwork": "./images/DreamSkyline.jpeg",
+        "releaseDate": "2025-05-05",
+        "published": true
+    },
+    {
+        "id": 38,
+        "title": "Track 38: Starlight Serenade",
+        "description": "suno.ai, expressive, vibrant, dreamy, pop, vocaloid, japanese, futuristic, j-pop, high-pitched vocals, vocal, theme",
+        "audio": "./music/StarlightSerenade.mp3",
+        "artwork": "./images/StarlightSerenade.jpeg",
+        "releaseDate": "2025-05-05",
+        "published": true
+    },
+    {
+        "id": 39,
+        "title": "Track 39: Neon Echoes",
+        "description": "suno.ai, electronic, rhythmic, punk, futuristic, vocoder effects, layered textures",
+        "audio": "./music/NeonEchoes.mp3",
+        "artwork": "./images/NeonEchoes.jpeg",
+        "releaseDate": "2025-05-05",
+        "published": true
+    },
+    {
+        "id": 40,
+        "title": "Track 40: The Crimson Crown",
+        "description": "suno.ai, celtic, choirs, haunting celtic melodies, deep, woodwinds, soaring, orchestral, epic orchestral, deep percussion, medieval, subtle brass, medieval fantasy, soaring strings",
+        "audio": "./music/TheCrimsonCrown.mp3",
+        "artwork": "./images/TheCrimsonCrown.jpeg",
+        "releaseDate": "2025-05-05",
+        "published": true
+    },
+    {
+        "id": 41,
+        "title": "Track 41: The Crimson Crown 2",
+        "description": "suno.ai, celtic, choirs, haunting celtic melodies, deep, woodwinds, soaring, orchestral, epic orchestral, deep percussion, medieval, subtle brass, medieval fantasy, soaring strings",
+        "audio": "./music/TheCrimsonCrown2.mp3",
+        "artwork": "./images/TheCrimsonCrown2.jpeg",
+        "releaseDate": "2025-05-05",
+        "published": true
+    },
+    {
+        "id": 42,
+        "title": "Track 42: Echoes Of The Forgotten Kingdom",
+        "description": "suno.ai, epic, celtic, soaring, and woodwinds, deep, medieval, medieval fantasy, subtle brass, haunting celtic melodies, featuring soaring strings, deep percussion, orchestral, choirs",
+        "audio": "./music/EchoesOfTheForgottenKingdom.mp3",
+        "artwork": "./images/EchoesOfTheForgottenKingdom.jpeg",
+        "releaseDate": "2025-05-05",
+        "published": true
+    },
+    {
+        "id": 43,
+        "title": "Track 43: Lone Rider Across The Stars",
+        "description": "suno.ai, haunting whistles, twangy guitars, orchestral swells, cinematic, pulsing synths, western-sci-fi fusion, orchestral, tribal drums",
+        "audio": "./music/LoneRiderAcrossTheStars.mp3",
+        "artwork": "./images/LoneRiderAcrossTheStars.jpeg",
+        "releaseDate": "2025-05-05",
+        "published": true
+    },
+    {
+        "id": 44,
+        "title": "Track 44: Rise Of The Hero",
+        "description": "suno.ai, soaring strings, bold brass, modern superhero vibe, orchestral, male vocals, driving percussion, cinematic, soaring",
+        "audio": "./music/RiseOfTheHero.mp3",
+        "artwork": "./images/RiseOfTheHero.jpeg",
+        "releaseDate": "2025-05-05",
+        "published": true
     }
 ]
