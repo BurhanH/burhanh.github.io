@@ -388,5 +388,35 @@
         "published": true,
         "transcript": "transcripts/conversation-039-us.json",
         "language": "en"
+    },
+    {
+        "id": 40,
+        "title": "SynthMech AI - Conversation 40: Competitive Programming for School Students",
+        "description": "An overview of competitive programming for schoolchildren, focusing on the Olympiad in Informatics and other related events.",
+        "audio": "audio/conversation-040-us.mp3",
+        "releaseDate": "2025-05-05",
+        "published": true,
+        "transcript": "transcripts/conversation-040-us.json",
+        "language": "en"
+    },
+    {
+        "id": 41,
+        "title": "SynthMech AI - Conversation 41: Cognitive Complexity and Personal Constructs",
+        "description": "AI hosts explore George Kelly's personal construct theory, which emphasizes how individuals use subjective criteria to perceive and evaluate the world and others, particularly in social interactions.",
+        "audio": "audio/conversation-041-us.mp3",
+        "releaseDate": "2025-05-05",
+        "published": true,
+        "transcript": "transcripts/conversation-041-us.json",
+        "language": "en"
+    },
+    {
+        "id": 42,
+        "title": "SynthMech AI - Conversation 42: GRASP: Architecture Beyond SOLID",
+        "description": "A mature architectural approach begins with understanding principles like those in GRASP, which inform why and what to model, rather than just how to code.",
+        "audio": "audio/conversation-042-us.mp3",
+        "releaseDate": "2025-05-05",
+        "published": true,
+        "transcript": "transcripts/conversation-042-us.json",
+        "language": "en"
     }
 ]
